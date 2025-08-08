@@ -1,0 +1,31 @@
+{
+  "summary": {
+    "model_info": {
+      "model_name": "base",
+      "model_path": "C:\\Poroject\\base_model_checkpoints\\base-checkpoint-900.pt",
+      "is_finetuned": true,
+      "device": "cpu",
+      "language": "af"
+    },
+    "test_metrics": {
+      "total_samples": 300,
+      "valid_samples": 300,
+      "avg_wer": 246.44999999999996,
+      "avg_cer": 122.20949201584692,
+      "median_wer": 60.0,
+      "median_cer": 19.615384615384617,
+      "std_wer": 853.890095766515,
+      "std_cer": 489.9768014587327,
+      "min_wer": 0.0,
+      "max_wer": 4460.0,
+      "min_cer": 0.0,
+      "max_cer": 3963.6363636363635
+    },
+    "performance_metrics": {
+      "total_processing_time": 896.4410905838013,
+      "total_audio_duration": 1044.4799999999998,
+      "avg_processing_time": 2.988136968612671,
+      "real_time_factor": 0.8582654436502388
+    },
+    "error_distribution": {
+      "perfect_predictions": 
