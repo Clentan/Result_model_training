@@ -1,0 +1,301 @@
+audio_path,reference,prediction,wer_score,cer_score,processing_time,audio_duration,word_count,char_count
+Data/nchlt_tso/audio/136/nchlt_tso_136f_0328.wav,ya wena a yi tate,yawena a yi tate,40.0,5.88235294117647,7.167004585266113,3.48,5,17
+Data/nchlt_tso/audio/177/nchlt_tso_177m_0441.wav,wa tiko a nga yi,wa tiko a nga yi,0.0,0.0,3.1742966175079346,2.04,5,16
+Data/nchlt_tso/audio/077/nchlt_tso_077m_0396.wav,ku va kona ka rixaka,ku va kona ka ri xa ka?,60.0,15.0,3.0625503063201904,3.12,5,20
+Data/nchlt_tso/audio/020/nchlt_tso_020m_0132.wav,a nga na vutihlamuleri byo,a nga na vutisa muleri byo,40.0,11.538461538461538,4.277012586593628,3.96,5,26
+Data/nchlt_tso/audio/114/nchlt_tso_114m_0253.wav,swa olova ku xi hlaya,Saolo va ku xisla ya,80.0,28.57142857142857,3.257523775100708,4.2,5,21
+Data/nchlt_tso/audio/181/nchlt_tso_181m_0200.wav,loyi a nga ri ki,Lloyd Angarreke.,100.0,50.0,2.874549388885498,2.04,5,16
+Data/nchlt_tso/audio/152/nchlt_tso_152m_0013.wav,wa xiyimo xa le henhlanyana,wa xiyimo xa le xa nyana,40.0,22.22222222222222,3.7364590167999268,4.2,5,27
+Data/nchlt_tso/audio/004/nchlt_tso_004f_0382.wav,ku ka u nga ri,Okongari,100.0,57.14285714285714,2.6705398559570312,2.16,5,14
+Data/nchlt_tso/audio/030/nchlt_tso_030m_0083.wav,ra kumbe ku nga si,Raqumbe konga si,80.0,22.22222222222222,3.3819162845611572,5.88,5,18
+Data/nchlt_tso/audio/117/nchlt_tso_117m_0608.wav,laya nga kona na lamantshwa,laya nga kona na lama ncwa,40.0,14.814814814814813,4.151726484298706,2.88,5,27
+Data/nchlt_tso/audio/118/nchlt_tso_118m_0340.wav,leswi u nga ta swi,Lessu u nga ta si,40.0,16.666666666666664,3.1225829124450684,2.88,5,18
+Data/nchlt_tso/audio/018/nchlt_tso_018f_0090.wav,ku kongomisa na ku yisa,ku kongomisa na kuisa,40.0,8.695652173913043,3.2176504135131836,4.92,5,23
+Data/nchlt_tso/audio/154/nchlt_tso_154m_0899.wav,wana u na mfanelo wo,wa na una fanelo wa,100.0,20.0,2.918344020843506,2.64,5,20
+Data/nchlt_tso/audio/036/nchlt_tso_036f_0332.wav,ndzilava ku vona,Zilabakubona.,100.0,43.75,2.9249753952026367,5.28,3,16
+Data/nchlt_tso/audio/065/nchlt_tso_065f_0252.wav,n wana un wana na,Wana u wana na,40.0,17.647058823529413,3.4558160305023193,2.52,5,17
+Data/nchlt_tso/audio/137/nchlt_tso_137m_0330.wav,ka nyiko ya wena ku,Ka nyiko ya wena ku?,20.0,5.263157894736842,3.4236879348754883,2.4,5,19
+Data/nchlt_tso/audio/083/nchlt_tso_083f_0561.wav,ya timhaka ta matiko mambe,ya kima gata matiko mambe,40.0,19.230769230769234,4.178833723068237,3.0,5,26
+Data/nchlt_tso/audio/008/nchlt_tso_008m_0056.wav,nawu wa timfanelo ta migodi,Na wu wa tin faneelo ta me goodyi,120.0,29.629629629629626,4.394915342330933,3.48,5,27
+Data/nchlt_tso/audio/058/nchlt_tso_058m_0443.wav,u fanele ku kota ku,ufanele ku kota ku,40.0,5.263157894736842,3.3294785022735596,2.76,5,19
+Data/nchlt_tso/audio/086/nchlt_tso_086m_0133.wav,swi nga ehansi ka wona,shi nga ea ndsika wona,60.0,22.727272727272727,3.7802860736846924,3.12,5,22
+Data/nchlt_tso/audio/072/nchlt_tso_072m_0277.wav,n wana loyi a nga,Wa na lo ya a nga,80.0,29.411764705882355,2.9371752738952637,2.4,5,17
+Data/nchlt_tso/audio/118/nchlt_tso_118m_0550.wav,ku va na nhlangano wa,ku vana xa nga no wa,80.0,28.57142857142857,3.8460159301757812,3.12,5,21
+Data/nchlt_tso/audio/187/nchlt_tso_187f_0464.wav,timhaka leti nga kona eka,"See you later, Kona eka.",80.0,56.00000000000001,3.3653202056884766,3.0,5,25
+Data/nchlt_tso/audio/163/nchlt_tso_163f_0107.wav,le hansi xa mahlamulelo ya,le hansi xa masamulelo ya,20.0,7.6923076923076925,3.4950993061065674,4.44,5,26
+Data/nchlt_tso/audio/070/nchlt_tso_070f_0238.wav,loko ku nga si fika,loco congasiflika.,100.0,42.10526315789473,3.86989688873291,4.56,5,19
+Data/nchlt_tso/audio/028/nchlt_tso_028f_0107.wav,ra yena a tlhela a,Rayana Atlela A,80.0,22.22222222222222,2.591489791870117,2.52,5,18
+Data/nchlt_tso/audio/050/nchlt_tso_050f_0289.wav,a nga va a ri,Angava Ari.,100.0,30.76923076923077,2.500697374343872,2.64,5,13
+Data/nchlt_tso/audio/053/nchlt_tso_053f_0322.wav,wana na yin wana ya,Wa na mayu wa me ya,80.0,42.10526315789473,3.0903801918029785,2.52,5,19
+Data/nchlt_tso/audio/056/nchlt_tso_056f_0146.wav,fanele ku va na na,fanele ku va na na,0.0,0.0,2.961798667907715,4.32,5,18
+Data/nchlt_tso/audio/124/nchlt_tso_124m_0230.wav,i mani lava va nga,Immani lava vanga.,80.0,16.666666666666664,2.798701286315918,3.24,5,18
+Data/nchlt_tso/audio/155/nchlt_tso_155m_0193.wav,xi fanele ku yisiwa eka,She found a loguisiwa eka,80.0,52.17391304347826,3.4813194274902344,2.28,5,23
+Data/nchlt_tso/audio/121/nchlt_tso_121m_0460.wav,xa le henhla na ku,xa le hentla na ku n n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n ya n,2900.0,2000.0,47.1656391620636,2.52,5,18
+Data/nchlt_tso/audio/078/nchlt_tso_078m_0140.wav,n wana wa vanhu a,Wa na wa va mu a ha ha.,120.0,70.58823529411765,3.1780343055725098,3.24,5,17
+Data/nchlt_tso/audio/129/nchlt_tso_129f_0230.wav,ngana leswi nga kumiwa na,nga nalhesi nga kumi wana,80.0,24.0,3.820322036743164,3.48,5,25
+Data/nchlt_tso/audio/056/nchlt_tso_056f_0157.wav,u fanele ku lemuka leswaku,Ofanehra ku le muka le chaku,120.0,34.61538461538461,3.824249744415283,3.96,5,26
+Data/nchlt_tso/audio/145/nchlt_tso_145m_0007.wav,eka rona kumbe eka tiko,ecarona kumbe eka tiko ha,60.0,21.73913043478261,3.8754353523254395,2.52,5,23
+Data/nchlt_tso/audio/017/nchlt_tso_017m_0184.wav,eka xivulwa lexi nga laha,e ka xivulo leswi nga la,100.0,28.000000000000004,4.016093492507935,5.52,5,25
+Data/nchlt_tso/audio/090/nchlt_tso_090m_0351.wav,ku nga si hela lembe,konga si hela lembe,40.0,10.0,3.124239444732666,2.04,5,20
+Data/nchlt_tso/audio/084/nchlt_tso_084m_0548.wav,ka ti nga ri ta,kathi nga ri e ta,60.0,26.666666666666668,2.788137197494507,3.0,5,15
+Data/nchlt_tso/audio/160/nchlt_tso_160f_0116.wav,loyi u n wi hlayisaka,loyi umu xa yi zhaka,80.0,47.61904761904761,3.7912392616271973,3.36,5,21
+Data/nchlt_tso/audio/120/nchlt_tso_120f_0344.wav,va kona ka rixaka eka,Bakona Karisaka Ika.,100.0,28.57142857142857,3.132410764694214,3.96,5,21
+Data/nchlt_tso/audio/146/nchlt_tso_146f_0534.wav,loyi a nyikiweke layisense ku,So let's take a look at this scene.,140.0,96.55172413793103,3.7450907230377197,2.88,5,29
+Data/nchlt_tso/audio/189/nchlt_tso_189f_0115.wav,ndzawulo ya ta le kaya,Zawulo ya talikaya,80.0,22.727272727272727,3.107375383377075,3.48,5,22
+Data/nchlt_tso/audio/171/nchlt_tso_171m_0262.wav,wana swi ta nyikiwa eka,wa masitani ku wa eka,80.0,43.47826086956522,3.276069402694702,3.0,5,23
+Data/nchlt_tso/audio/052/nchlt_tso_052f_0205.wav,ka nyiko ya wena ku,ka nyiko ya wena ku?,20.0,5.263157894736842,3.388625144958496,5.04,5,19
+Data/nchlt_tso/audio/145/nchlt_tso_145m_0575.wav,ndzawulo ya ta mati na,nzawulo ya ta matina,60.0,9.090909090909092,3.20320725440979,2.88,5,22
+Data/nchlt_tso/audio/168/nchlt_tso_168f_0431.wav,maambalelo ya masiku lawa,Mahambalelo ya masikulawu,75.0,12.0,3.885636568069458,3.0,4,25
+Data/nchlt_tso/audio/055/nchlt_tso_055m_0428.wav,xa swa rihanyu xi fikaka,xa xa ri hanyu xi fika ha,100.0,20.833333333333336,3.968561887741089,5.76,5,24
+Data/nchlt_tso/audio/152/nchlt_tso_152m_0018.wav,ku endlela leswaku ku va,ku endlela leswaku ku va ha,20.0,12.5,3.836394786834717,4.32,5,24
+Data/nchlt_tso/audio/003/nchlt_tso_003f_0378.wav,na vona va fanele ku,Na wu wa na va fanele ku,60.0,30.0,3.5827085971832275,2.64,5,20
+Data/nchlt_tso/audio/189/nchlt_tso_189f_0185.wav,a sungula no vona leswaku,As sungula no wana lexaku.,60.0,24.0,3.213320016860962,3.0,5,25
+Data/nchlt_tso/audio/022/nchlt_tso_022m_0042.wav,ya tsakisa naswona i ya,ya ta kisa naswona e ya,60.0,13.043478260869565,3.2384519577026367,5.76,5,23
+Data/nchlt_tso/audio/126/nchlt_tso_126f_0436.wav,u le ka xiyimo xa,Ule ka swi yimo swa.,100.0,41.17647058823529,4.443378448486328,3.36,5,17
+Data/nchlt_tso/audio/001/nchlt_tso_001m_0507.wav,vamanana va afrika dzonga,Wa manana wa afrika tsonga,100.0,20.0,3.0965096950531006,3.72,4,25
+Data/nchlt_tso/audio/182/nchlt_tso_182f_0193.wav,xitsalwana a xi ringanelangi ku,Shitsalwana a Shiringanellangi ku,60.0,19.35483870967742,3.8995187282562256,4.92,5,31
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0022.wav,le ka xiyimo xa le,le ka xiyimo xa le,0.0,0.0,3.46256422996521,3.48,5,18
+Data/nchlt_tso/audio/041/nchlt_tso_041f_0676.wav,ya timhaka ta mbango na,ya timhaka ta mbongona,40.0,8.695652173913043,2.9844772815704346,2.04,5,23
+Data/nchlt_tso/audio/022/nchlt_tso_022m_0415.wav,swi nga endleka va nga,singa endle ka wanga,100.0,22.727272727272727,3.163788080215454,4.08,5,22
+Data/nchlt_tso/audio/145/nchlt_tso_145m_0157.wav,a rivalaka ndyangu hala kaya,Arivala Kanjangu ala ka ya,100.0,25.0,4.610055208206177,3.12,5,28
+Data/nchlt_tso/audio/066/nchlt_tso_066f_0350.wav,xiyimo xa le henhlanyana naswona,Shiyimu xalena ya na na shona,120.0,40.625,5.28968071937561,3.36,5,32
+Data/nchlt_tso/audio/155/nchlt_tso_155m_0247.wav,leswi a nga na swona,les Anganasona,100.0,30.0,3.9394431114196777,2.52,5,20
+Data/nchlt_tso/audio/164/nchlt_tso_164f_0329.wav,a a fanele ku sungula,a a fanele cosungula,40.0,14.285714285714285,3.142078161239624,3.96,5,21
+Data/nchlt_tso/audio/072/nchlt_tso_072m_0330.wav,leswaku nyiko ya wena yi,Leswakuni goya wena yi,60.0,20.833333333333336,3.798185348510742,2.52,5,24
+Data/nchlt_tso/audio/179/nchlt_tso_179m_0449.wav,wa tikeriwa eka ku ringeta,wa tiki ri wa eka ku ringeta,60.0,11.538461538461538,3.905592679977417,4.08,5,26
+Data/nchlt_tso/audio/163/nchlt_tso_163f_0057.wav,a ri wanuna loyi a,a riwa nona loyi a,40.0,16.666666666666664,4.067179441452026,3.48,5,18
+Data/nchlt_tso/audio/081/nchlt_tso_081m_0043.wav,ku kala swi hlayisekile ku,ku kala swi hlisa ki le ku,60.0,19.230769230769234,3.0428826808929443,4.08,5,26
+Data/nchlt_tso/audio/075/nchlt_tso_075m_0047.wav,ku endla swilo swa ku,ku endla si lo saco,60.0,28.57142857142857,2.83722186088562,4.92,5,21
+Data/nchlt_tso/audio/186/nchlt_tso_186m_0115.wav,ku ku tlherisela mali ya,ku ku xerisela bali ya,40.0,16.666666666666664,2.2587735652923584,2.52,5,24
+Data/nchlt_tso/audio/061/nchlt_tso_061m_0059.wav,swi fanele swi koteka ku,See you next week!,100.0,75.0,3.006993532180786,3.36,5,24
+Data/nchlt_tso/audio/042/nchlt_tso_042f_0146.wav,a swi tikombi a ri,Asiti kombi a ri,60.0,22.22222222222222,2.9902305603027344,3.24,5,18
+Data/nchlt_tso/audio/163/nchlt_tso_163f_0247.wav,kumbe ku tsandzeka ku landzelela,conve ku fanzeka ku landzelela.,60.0,25.0,3.702375888824463,4.68,5,32
+Data/nchlt_tso/audio/093/nchlt_tso_093m_0191.wav,swi nga ri na mhaka,Sngarna mahaka.,100.0,42.10526315789473,2.817811965942383,3.24,5,19
+Data/nchlt_tso/audio/017/nchlt_tso_017m_0291.wav,a wu ta va wu,Au ta va wu.,60.0,23.076923076923077,2.237414598464966,3.6,5,13
+Data/nchlt_tso/audio/122/nchlt_tso_122f_0470.wav,leswaku i mani loyi a,let swa ku e mani lo ya ha,140.0,33.33333333333333,3.4670534133911133,3.24,5,21
+Data/nchlt_tso/audio/187/nchlt_tso_187f_0425.wav,lava swi va khumbhaka na,Lavasi va kumbhaka na.,80.0,16.666666666666664,3.1754748821258545,3.0,5,24
+Data/nchlt_tso/audio/120/nchlt_tso_120f_0011.wav,vekiwa eka nawu wa ku,wikiwa eka na waku,80.0,23.809523809523807,2.7590980529785156,3.6,5,21
+Data/nchlt_tso/audio/097/nchlt_tso_097m_0023.wav,leswaku a ta kota ku,leswaku a ta kota ku,0.0,0.0,2.510483980178833,2.52,5,20
+Data/nchlt_tso/audio/039/nchlt_tso_039m_0407.wav,leswaku a a fanele ku,leswaku a a fanele ku,0.0,0.0,2.946030378341675,3.24,5,21
+Data/nchlt_tso/audio/055/nchlt_tso_055m_0269.wav,naswona marito ya hlayeka kahle,naswona marito ya seka kase,40.0,19.35483870967742,2.9178431034088135,6.12,5,31
+Data/nchlt_tso/audio/152/nchlt_tso_152m_0192.wav,xibelani akuri bombo ra kona,Shibelani Akuri Bomborakona.,80.0,17.857142857142858,2.6382946968078613,4.2,5,28
+Data/nchlt_tso/audio/095/nchlt_tso_095m_0149.wav,vulanguteri bya xiyimo xa le,Wulanguterebhya swi muxali.,100.0,46.42857142857143,4.349109411239624,4.08,5,28
+Data/nchlt_tso/audio/174/nchlt_tso_174m_0452.wav,loko a wu fana na,loco a ufana na.,80.0,23.52941176470588,2.4902029037475586,2.88,5,17
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0193.wav,ta kuma nyiko swi ta,ta kuma nyiko sita,40.0,10.0,2.5872604846954346,3.48,5,20
+Data/nchlt_tso/audio/056/nchlt_tso_056f_0451.wav,na matimba ya nawu eka,Namatimba ya nawu eka,40.0,4.545454545454546,2.8745782375335693,3.0,5,22
+Data/nchlt_tso/audio/052/nchlt_tso_052f_0087.wav,sungula nhlamulo ya wena eka,sungula xamulo ya wena eka,20.0,10.714285714285714,3.6783175468444824,5.28,5,28
+Data/nchlt_tso/audio/058/nchlt_tso_058m_0133.wav,bya kahle swinene ku ya,Jaka hitsune ne ku ya.,80.0,47.82608695652174,2.327465772628784,5.16,5,23
+Data/nchlt_tso/audio/110/nchlt_tso_110m_0582.wav,ku cincana ka matiko ka pfuna,Thank you for watching my video.,100.0,89.65517241379311,2.559918165206909,3.48,6,29
+Data/nchlt_tso/audio/132/nchlt_tso_132m_0207.wav,eka xivulwa lexi landzelaka hi,eka xivula le xilanzela ka yi,100.0,20.0,3.798724889755249,3.48,5,30
+Data/nchlt_tso/audio/129/nchlt_tso_129f_0453.wav,a wu ringanelangi ku ya,a wu ringanelangi ku ya,0.0,0.0,2.9069268703460693,2.76,5,23
+Data/nchlt_tso/audio/057/nchlt_tso_057f_0356.wav,ngoma yi wile,n n go mayuwi le,166.66666666666669,61.53846153846154,3.32747745513916,2.64,3,13
+Data/nchlt_tso/audio/180/nchlt_tso_180f_0380.wav,nkhuvo wo hlanganisa maxaka,ku wu wu shanganisa masak,125.0,37.03703703703704,3.2203691005706787,3.6,4,27
+Data/nchlt_tso/audio/120/nchlt_tso_120f_0173.wav,leswaku le mahlweni ku na,leswaku le mahu yi nukuna,60.0,28.000000000000004,2.791468858718872,3.48,5,25
+Data/nchlt_tso/audio/083/nchlt_tso_083f_0256.wav,mali leyi faneleke ku hakerisiwa,Malilayi Faneleka Kwaigeri Siwu.,100.0,34.375,3.475586175918579,3.12,5,32
+Data/nchlt_tso/audio/079/nchlt_tso_079f_0018.wav,ya fanele ku va na,ya fanele ku va na,0.0,0.0,2.4818339347839355,3.6,5,18
+Data/nchlt_tso/audio/010/nchlt_tso_010m_0304.wav,ra ku va kona ka,Raku va kona ka?,60.0,12.5,2.9743783473968506,4.92,5,16
+Data/nchlt_tso/audio/133/nchlt_tso_133f_0133.wav,kota ku vona swilo leswi,kota ku vana swi lo les,80.0,16.666666666666664,2.964766263961792,3.48,5,24
+Data/nchlt_tso/audio/100/nchlt_tso_100m_0391.wav,a nga ka a nga,a nga ka a nga,0.0,0.0,2.149538993835449,2.4,5,14
+Data/nchlt_tso/audio/183/nchlt_tso_183m_0491.wav,swi nga vanga leswaku nyiko,singa va nga leswaku niko,80.0,14.814814814814813,3.2010953426361084,2.64,5,27
+Data/nchlt_tso/audio/187/nchlt_tso_187f_0498.wav,a nga velekiwa ehandle ka,Angavelekiwa ea and leka.,100.0,28.000000000000004,3.191673755645752,2.88,5,25
+Data/nchlt_tso/audio/154/nchlt_tso_154m_0581.wav,yo landzelela swilaveko swa matsalelo,Yulandzelela Shilaveko Shamatsalelo,100.0,13.513513513513514,4.167962074279785,3.6,5,37
+Data/nchlt_tso/audio/075/nchlt_tso_075m_0415.wav,u fanele ku va a,Wa fanele ku va a ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha,4340.0,4062.5,35.942298889160156,3.12,5,16
+Data/nchlt_tso/audio/135/nchlt_tso_135m_0292.wav,lava swi va khumbhaka na,let's go kumbhaka na,80.0,37.5,2.521878480911255,2.28,5,24
+Data/nchlt_tso/audio/071/nchlt_tso_071f_0454.wav,xa ntlangu lowu i mani,xantlangulo i man,80.0,22.727272727272727,2.337613582611084,4.08,5,22
+Data/nchlt_tso/audio/125/nchlt_tso_125m_0045.wav,wa swa nkulo wa vanhu,Wasanku Luwavan.,100.0,42.857142857142854,2.971043586730957,3.84,5,21
+Data/nchlt_tso/audio/058/nchlt_tso_058m_0189.wav,swo tala naswona xi hlanganisa,swa tala naswona xikhanga ni xa,80.0,20.0,4.160093545913696,5.4,5,30
+Data/nchlt_tso/audio/132/nchlt_tso_132m_0034.wav,ri ta va siku leri,Rita Vasikuleri,100.0,16.666666666666664,2.361948013305664,2.52,5,18
+Data/nchlt_tso/audio/134/nchlt_tso_134m_0128.wav,leswaku swimila a swi na,Leswaku Simiila Asina.,80.0,25.0,2.7536420822143555,3.36,5,24
+Data/nchlt_tso/audio/072/nchlt_tso_072m_0362.wav,xa vurimi lexi hlanganeke no,Shavuri milisi sanghaneke no?,100.0,39.285714285714285,2.9885449409484863,3.48,5,28
+Data/nchlt_tso/audio/062/nchlt_tso_062m_0148.wav,wa xikhale wo ka wu,washi kali wu gou,100.0,52.63157894736842,3.0612027645111084,4.2,5,19
+Data/nchlt_tso/audio/180/nchlt_tso_180f_0135.wav,xivulwa xa wena n wini,xivulo xa wena yini,60.0,22.727272727272727,3.182748317718506,3.84,5,22
+Data/nchlt_tso/audio/052/nchlt_tso_052f_0343.wav,nga teka masiku manharhu ku,nga te kamasiku manaruko,80.0,22.22222222222222,2.8700695037841797,4.44,5,27
+Data/nchlt_tso/audio/110/nchlt_tso_110m_0059.wav,ko sungula ku tirha ka,kusungula ku tiraka,80.0,18.181818181818183,2.417571783065796,3.48,5,22
+Data/nchlt_tso/audio/019/nchlt_tso_019f_0188.wav,a nga swi koti ku,Anga xiwkoti ku.,100.0,29.411764705882355,2.8439035415649414,5.76,5,17
+Data/nchlt_tso/audio/057/nchlt_tso_057f_0123.wav,nga ri na mhaka leswaku,nga ri na mhaka lesaku,20.0,4.3478260869565215,3.2278783321380615,3.12,5,23
+Data/nchlt_tso/audio/101/nchlt_tso_101m_0375.wav,eka xiyimo xa afrika dzonga,ega xiyimo xa afrika dzonga,20.0,3.7037037037037033,3.372269630432129,3.0,5,27
+Data/nchlt_tso/audio/132/nchlt_tso_132m_0074.wav,sungula ti ta va kona,sungula te ta va kona,20.0,4.761904761904762,2.8379411697387695,2.88,5,21
+Data/nchlt_tso/audio/102/nchlt_tso_102f_0060.wav,va swikota ku hlayisa mali,Wa shi kota ku lesa mani,100.0,30.76923076923077,3.1982367038726807,5.16,5,26
+Data/nchlt_tso/audio/149/nchlt_tso_149f_0138.wav,ta va na nkoka eka,ta wana koka eka,60.0,16.666666666666664,2.5786218643188477,2.4,5,18
+Data/nchlt_tso/audio/180/nchlt_tso_180f_0403.wav,lava swi va khumbhaka va,La va xiva kumbhaka va,80.0,20.833333333333336,3.3293068408966064,2.52,5,24
+Data/nchlt_tso/audio/098/nchlt_tso_098m_0146.wav,ku twisisa swilaveko swa xitsalwambiko,ku twisisa se lobeko swa hitsa loambiko,80.0,18.421052631578945,4.347430467605591,3.84,5,38
+Data/nchlt_tso/audio/066/nchlt_tso_066f_0056.wav,ya xona i nala wa,ya ya na ina lawa,80.0,35.294117647058826,2.5920650959014893,2.04,5,17
+Data/nchlt_tso/audio/120/nchlt_tso_120f_0108.wav,swilo swa durha masiku lawa,silo xa du rama xi ku l'a wa,160.0,40.74074074074074,3.11460018157959,3.24,5,27
+Data/nchlt_tso/audio/117/nchlt_tso_117m_0094.wav,misava kumbe loyi a tshamaka,Misawa Okumbeloviya Atamaka.,100.0,32.142857142857146,3.299001693725586,3.96,5,28
+Data/nchlt_tso/audio/165/nchlt_tso_165f_0565.wav,ku mbala kahle swi amukelekile,kumbala kaise shi amkele ki le,120.0,23.333333333333332,3.818155288696289,3.6,5,30
+Data/nchlt_tso/audio/001/nchlt_tso_001m_0186.wav,a swi nga n wi,a swi nga n wi,0.0,0.0,2.7587969303131104,2.76,5,14
+Data/nchlt_tso/audio/042/nchlt_tso_042f_0055.wav,sesi loyi u mbale nyakanyaka,seselovi umba le nyaka nyaka,100.0,21.428571428571427,3.045396327972412,5.76,5,28
+Data/nchlt_tso/audio/066/nchlt_tso_066f_0140.wav,ya fanele ku va na,ya fanele ku va na,0.0,0.0,2.3722782135009766,2.52,5,18
+Data/nchlt_tso/audio/015/nchlt_tso_015m_0212.wav,un wana a nga swi,u wana a nga si,40.0,11.76470588235294,2.7775797843933105,2.52,5,17
+Data/nchlt_tso/audio/165/nchlt_tso_165f_0404.wav,va muakatiko wa afrika dzonga,Whamaka tiko wa afrika zonga.,60.0,24.137931034482758,3.256342649459839,7.44,5,29
+Data/nchlt_tso/audio/138/nchlt_tso_138m_0543.wav,ya xivundza na siku ra,Ya xivunza nasiko ra,60.0,13.636363636363635,2.910623550415039,2.64,5,22
+Data/nchlt_tso/audio/120/nchlt_tso_120f_0107.wav,u fanele ku endla leswi,Ofanello ku endla lesi,60.0,21.73913043478261,2.9537267684936523,3.24,5,23
+Data/nchlt_tso/audio/032/nchlt_tso_032f_0568.wav,mahlawulelo ya marito ya amukeleka,Mastawulelo ya marito ya amukeleka,20.0,5.88235294117647,3.543313980102539,4.44,5,34
+Data/nchlt_tso/audio/004/nchlt_tso_004f_0450.wav,ku fambisana na vumbiwa ka,ku fambisana na vumbiwa ka?,20.0,3.8461538461538463,3.302475929260254,3.36,5,26
+Data/nchlt_tso/audio/121/nchlt_tso_121m_0402.wav,eka ku nyika mpfumelelo wa,eka ku nyi ka mfumelelo wa,60.0,7.6923076923076925,2.801816463470459,3.6,5,26
+Data/nchlt_tso/audio/146/nchlt_tso_146f_0083.wav,timaraka ti ta aviwa hi,timhara katsita avi wa e,100.0,34.78260869565217,2.8535947799682617,3.36,5,23
+Data/nchlt_tso/audio/007/nchlt_tso_007m_0462.wav,mana wa xona a a,mana wa shona a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,4360.0,2725.0,37.64289164543152,3.48,5,16
+Data/nchlt_tso/audio/127/nchlt_tso_127f_0576.wav,ya maavelo ya timaraka eka,yamahavelo ya timaraka eka,40.0,7.6923076923076925,3.652966022491455,4.44,5,26
+Data/nchlt_tso/audio/077/nchlt_tso_077m_0458.wav,loko tata wa yena a,Lu ku ta ta wa yena a ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha,680.0,494.7368421052632,7.033225774765015,3.12,5,19
+Data/nchlt_tso/audio/044/nchlt_tso_044f_0081.wav,na vona va na mfanelo,Na wu na vana wu fanelo,100.0,33.33333333333333,3.101062774658203,4.2,5,21
+Data/nchlt_tso/audio/096/nchlt_tso_096m_0021.wav,ra afrika dzonga nawu wa,Africa-Zonganawwa.,100.0,41.66666666666667,3.2276508808135986,3.12,5,24
+Data/nchlt_tso/audio/101/nchlt_tso_101m_0267.wav,ndlela yo kongoma naswona a,nzeleyo kongomana swona a a,80.0,29.629629629629626,2.976652145385742,2.64,5,27
+Data/nchlt_tso/audio/177/nchlt_tso_177m_0514.wav,ku vona leswaku ku na,kuvana leswaku ku na.,60.0,14.285714285714285,2.628153085708618,3.48,5,21
+Data/nchlt_tso/audio/062/nchlt_tso_062m_0389.wav,a swi olovi ku vona,I see all of you kuvona.,120.0,68.42105263157895,2.635693311691284,2.4,5,19
+Data/nchlt_tso/audio/083/nchlt_tso_083f_0418.wav,ku na nkarhi lowu nga,Kunan Karilonga,100.0,38.095238095238095,2.5393483638763428,2.64,5,21
+Data/nchlt_tso/audio/023/nchlt_tso_023f_0575.wav,nga vaka swi ri xiswona,nga va ka swi rixisona,80.0,13.043478260869565,2.966775417327881,2.52,5,23
+Data/nchlt_tso/audio/011/nchlt_tso_011f_0311.wav,ku va yi kota ku,ku va yu kota ku,20.0,6.25,2.461080312728882,3.0,5,16
+Data/nchlt_tso/audio/158/nchlt_tso_158f_0629.wav,a a ta va a,a a ta va a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,4360.0,3963.6363636363635,35.46630311012268,2.04,5,11
+Data/nchlt_tso/audio/156/nchlt_tso_156f_0298.wav,xa le henhla xitsonga xa,xa le yin xa xitonga xa,60.0,20.833333333333336,3.2451205253601074,2.28,5,24
+Data/nchlt_tso/audio/113/nchlt_tso_113m_0378.wav,leswaku ku fanele ku va,Leswaku ku fanele ku va,0.0,0.0,2.8612754344940186,3.84,5,23
+Data/nchlt_tso/audio/147/nchlt_tso_147m_0364.wav,kumbe tiko leri va nga,kumbeti kule ri wanga,100.0,31.818181818181817,2.989267587661743,2.16,5,22
+Data/nchlt_tso/audio/056/nchlt_tso_056f_0588.wav,nga tsakisi no va yi,nga tsikesu no wa yi,40.0,20.0,2.58091139793396,2.76,5,20
+Data/nchlt_tso/audio/131/nchlt_tso_131f_0295.wav,swivulwa na tindzimana swi na,Shivulwana Tindzimana Shina,80.0,13.793103448275861,3.294646978378296,2.52,5,29
+Data/nchlt_tso/audio/110/nchlt_tso_110m_0288.wav,xiyenge xa c xi na,See you in the next video.,120.0,111.11111111111111,2.654909133911133,3.48,5,18
+Data/nchlt_tso/audio/085/nchlt_tso_085f_0050.wav,xo ka xi nga ri,Shoka singarhi.,100.0,53.333333333333336,2.080047130584717,3.12,5,15
+Data/nchlt_tso/audio/003/nchlt_tso_003f_0137.wav,a nga endla xikombelo xa,Anna endla xikombelo xa,40.0,8.333333333333332,3.2973713874816895,4.44,5,24
+Data/nchlt_tso/audio/102/nchlt_tso_102f_0170.wav,nga fanela ku ya hi,nga fanela ku ya yi,20.0,5.263157894736842,2.7443199157714844,4.92,5,19
+Data/nchlt_tso/audio/136/nchlt_tso_136f_0234.wav,xa ku cinca loku eka,Sha ku cinca lo ku eka,60.0,15.0,2.5217995643615723,3.84,5,20
+Data/nchlt_tso/audio/047/nchlt_tso_047m_0411.wav,ku pima na ku langutisisa,ku pimana ku langu tisiisa,80.0,12.0,2.3064956665039062,3.36,5,25
+Data/nchlt_tso/audio/070/nchlt_tso_070f_0524.wav,va kona loku nga vumbiwa,va kona loku na vumbiwa,20.0,4.166666666666666,2.8283002376556396,3.36,5,24
+Data/nchlt_tso/audio/102/nchlt_tso_102f_0586.wav,xa hina xa bangi leswaku,Sayina xa bangle xa ku,80.0,33.33333333333333,2.795020818710327,5.04,5,24
+Data/nchlt_tso/audio/168/nchlt_tso_168f_0102.wav,na ku yisa emahlweni ku,naku yisa emashveniko,80.0,26.08695652173913,2.736940622329712,4.32,5,23
+Data/nchlt_tso/audio/136/nchlt_tso_136f_0394.wav,leswaku i mani a nga,leswaku imani a nga,40.0,5.0,2.263808012008667,2.76,5,20
+Data/nchlt_tso/audio/050/nchlt_tso_050f_0123.wav,wu nga ka wu nga,nga ka nga,40.0,37.5,2.243030309677124,3.6,5,16
+Data/nchlt_tso/audio/189/nchlt_tso_189f_0291.wav,xa maavelo ya timaraka ni,Shama Avelo yate maraka ni.,100.0,32.0,3.0214648246765137,3.6,5,25
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0142.wav,nkarhi lowu nga vekiwa eka,Nkarnonga vekiwa eka,60.0,26.923076923076923,2.4746365547180176,3.48,5,26
+Data/nchlt_tso/audio/152/nchlt_tso_152m_0265.wav,tin wana leti nga riki,Thin wana leti nga riki.,40.0,9.090909090909092,3.1866815090179443,4.56,5,22
+Data/nchlt_tso/audio/005/nchlt_tso_005f_0401.wav,wu nga ka wu nga,Wonga ka wonga,80.0,25.0,3.290949821472168,2.64,5,16
+Data/nchlt_tso/audio/165/nchlt_tso_165f_0554.wav,leswi nga ehansi ka yona,Leshinga ehansika yona.,100.0,16.666666666666664,3.218099355697632,3.0,5,24
+Data/nchlt_tso/audio/087/nchlt_tso_087m_0059.wav,wana ni yin wana ya,wa na ni yu wana ya,60.0,15.789473684210526,2.557758092880249,5.28,5,19
+Data/nchlt_tso/audio/181/nchlt_tso_181m_0032.wav,na xiyenge xo ka xi,nasi ya ngehwokasi,100.0,52.63157894736842,2.744896411895752,3.0,5,19
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0194.wav,ku hlaya ririmi,Putlayeri Rim.,100.0,46.666666666666664,2.10697078704834,2.52,3,15
+Data/nchlt_tso/audio/189/nchlt_tso_189f_0317.wav,lowu nga ta va wu,lowonga ta vau,80.0,23.52941176470588,2.83520245552063,3.0,5,17
+Data/nchlt_tso/audio/059/nchlt_tso_059m_0523.wav,bya kahle swinene ku ya,Jaka Shitsune ne ku ya.,80.0,52.17391304347826,2.604393482208252,3.0,5,23
+Data/nchlt_tso/audio/093/nchlt_tso_093m_0027.wav,va afrika dzonga lava va,wa afrika tsonga lava wa wa,80.0,29.166666666666668,2.5093343257904053,3.48,5,24
+Data/nchlt_tso/audio/098/nchlt_tso_098m_0095.wav,ku velekiwa ka n wana,kubele ku va kanganah,100.0,47.61904761904761,2.6130967140197754,2.52,5,21
+Data/nchlt_tso/audio/137/nchlt_tso_137m_0261.wav,i ku tlula nawu wa,e ku tula na wa,60.0,22.22222222222222,2.583010673522949,3.12,5,18
+Data/nchlt_tso/audio/023/nchlt_tso_023f_0033.wav,ka yi nga ri ya,ka yi nga ri ya,0.0,0.0,2.212705373764038,3.96,5,15
+Data/nchlt_tso/audio/141/nchlt_tso_141m_0350.wav,hlamula swivutiso leswi swi nga,Samula swivutiso lesi xi nga,60.0,16.129032258064516,3.5126328468322754,3.24,5,31
+Data/nchlt_tso/audio/051/nchlt_tso_051f_0347.wav,mani loyi a nga ta,Mani loyi a nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga ta nga,2860.0,2783.333333333333,35.19372606277466,2.52,5,18
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0335.wav,kombela mahungu ku suka eka,kombela mahungu kusuga eka,40.0,7.4074074074074066,2.5765957832336426,4.08,5,27
+Data/nchlt_tso/audio/182/nchlt_tso_182f_0050.wav,u fanele ku va a,wu fanele ku va a a,40.0,18.75,2.3839473724365234,3.84,5,16
+Data/nchlt_tso/audio/181/nchlt_tso_181m_0277.wav,swixavisiwa i swa nkoka,So shall we see what he's on call.,200.0,113.04347826086956,3.1719207763671875,2.64,4,23
+Data/nchlt_tso/audio/176/nchlt_tso_176f_0503.wav,swivutiso leswi nga ta yi,Shivutiso leshinga ta yi.,80.0,16.0,3.0875885486602783,3.12,5,25
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0002.wav,naswona matirhiselo ya kona a,naswona matricelo ya kona a h,40.0,17.24137931034483,2.953120231628418,3.36,5,29
+Data/nchlt_tso/audio/034/nchlt_tso_034f_0154.wav,hikwalaho ka leswi a a,yi kuala oka leshi a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,4340.0,1963.6363636363637,35.20041084289551,3.72,5,22
+Data/nchlt_tso/audio/038/nchlt_tso_038f_0057.wav,na un wana u na,Na wu wana wana,60.0,26.666666666666668,2.735581636428833,2.64,5,15
+Data/nchlt_tso/audio/143/nchlt_tso_143m_0339.wav,hlaya i masungulo ya ku,hlaya yima sungulo ya ku,40.0,13.043478260869565,2.980759620666504,4.32,5,23
+Data/nchlt_tso/audio/104/nchlt_tso_104f_0293.wav,eka munhu loyi a nga,eka munului a nga,40.0,20.0,2.898732900619507,3.12,5,20
+Data/nchlt_tso/audio/133/nchlt_tso_133f_0590.wav,loko u lava ku fika,loco u lava ku fika,20.0,5.263157894736842,2.474370002746582,3.24,5,19
+Data/nchlt_tso/audio/136/nchlt_tso_136f_0227.wav,hlamusela hofisi ya muganga wa,Namusela Hussisiamu Gangawa,100.0,33.33333333333333,2.80627179145813,5.4,5,30
+Data/nchlt_tso/audio/035/nchlt_tso_035f_0466.wav,xin wana xi beriwa mati,Shimwana Shibirwamati.,100.0,47.82608695652174,2.6313605308532715,4.92,5,23
+Data/nchlt_tso/audio/120/nchlt_tso_120f_0112.wav,a nga swi koti ku,Anga swi koti ku.,60.0,11.76470588235294,3.1456472873687744,3.36,5,17
+Data/nchlt_tso/audio/158/nchlt_tso_158f_0461.wav,ku hlamula xivutiso xin we,Kusamula Shibutiso Shiyu,100.0,46.15384615384615,3.319350004196167,2.64,5,26
+Data/nchlt_tso/audio/018/nchlt_tso_018f_0547.wav,makhwaya ya lava tinsimu,Maqwaya yelabatinsimu,100.0,25.0,3.026437997817993,2.76,4,24
+Data/nchlt_tso/audio/131/nchlt_tso_131f_0474.wav,a ku na xilaveko xa,Abuna xilaveko xa,60.0,15.789473684210526,2.3514773845672607,2.4,5,19
+Data/nchlt_tso/audio/020/nchlt_tso_020m_0457.wav,hlamula u ku hi swona,Samula uku yiso na.,100.0,38.095238095238095,2.5539376735687256,3.48,5,21
+Data/nchlt_tso/audio/111/nchlt_tso_111f_0463.wav,nawu wa endlelo ra swa,na wu wa endlelo rasa,80.0,13.636363636363635,3.3260576725006104,4.08,5,22
+Data/nchlt_tso/audio/036/nchlt_tso_036f_0431.wav,ku tsandzeka ku tsarisa matekanelo,Kutzanze ka ku tsarisa matekanelo,40.0,11.76470588235294,3.1346662044525146,6.24,5,34
+Data/nchlt_tso/audio/059/nchlt_tso_059m_0057.wav,yi nga sungula ku tirha,yi nga sungula ku tira,20.0,4.3478260869565215,2.750488519668579,3.24,5,23
+Data/nchlt_tso/audio/118/nchlt_tso_118m_0495.wav,va nga ta ka va,vanga ta kava,80.0,13.333333333333334,2.0992486476898193,2.52,5,15
+Data/nchlt_tso/audio/061/nchlt_tso_061m_0138.wav,we loyi a nga ta,wi loyi a nga ta,20.0,6.25,2.4959120750427246,2.04,5,16
+Data/nchlt_tso/audio/040/nchlt_tso_040f_0431.wav,ka nawu wa mafambiselo ya,Kanawu wa mafambiselo ya.,60.0,8.0,3.097414255142212,5.16,5,25
+Data/nchlt_tso/audio/011/nchlt_tso_011f_0491.wav,swin wana na swin wana,swi wana na swi wana,40.0,9.090909090909092,2.734328031539917,2.88,5,22
+Data/nchlt_tso/audio/094/nchlt_tso_094f_0462.wav,a swi nga endleka leswaku,Ashu nga endle ka leswaku,80.0,16.0,2.5359318256378174,2.52,5,25
+Data/nchlt_tso/audio/116/nchlt_tso_116m_0443.wav,wansati wa mamisa,once I do what my means.,200.0,94.11764705882352,2.6897079944610596,2.64,3,17
+Data/nchlt_tso/audio/067/nchlt_tso_067f_0257.wav,wa mahungu lama andlariweke kahle,wama hungulama and la rweke ka swi,140.0,30.303030303030305,3.4912283420562744,5.04,5,33
+Data/nchlt_tso/audio/122/nchlt_tso_122f_0187.wav,a ri na ku twisisa,I don't know what we see either.,140.0,133.33333333333331,2.8007538318634033,3.36,5,18
+Data/nchlt_tso/audio/084/nchlt_tso_084m_0258.wav,va yena va n wi,va yena va n wi,0.0,0.0,2.3467278480529785,3.24,5,15
+Data/nchlt_tso/audio/116/nchlt_tso_116m_0345.wav,faneleke na ku va na,Fanelekena ku vana,80.0,10.0,2.5426876544952393,2.64,5,20
+Data/nchlt_tso/audio/053/nchlt_tso_053f_0122.wav,ya marito ya fambelana ni,Ya marito ya fambelana ni.,20.0,4.0,3.1090095043182373,2.52,5,25
+Data/nchlt_tso/audio/174/nchlt_tso_174m_0068.wav,wa yena a a ri,wien a ri,60.0,42.857142857142854,1.7804951667785645,3.48,5,14
+Data/nchlt_tso/audio/123/nchlt_tso_123m_0433.wav,wa yena a a ri,wayana a ri,60.0,28.57142857142857,2.633108139038086,2.16,5,14
+Data/nchlt_tso/audio/111/nchlt_tso_111f_0157.wav,ku hisa swimilana aswi kahle,Khuyisa Similana Asikarhi.,100.0,32.142857142857146,3.0316989421844482,4.56,5,28
+Data/nchlt_tso/audio/055/nchlt_tso_055m_0235.wav,lexi xi nga endla leswaku,lefi xi nga endzali swa a ku mhela fisi nga endzali swa a ku mhela fisi nga endzali swa a ku mhela fisi nga endzali swa a ku,520.0,400.0,9.958381652832031,4.92,5,25
+Data/nchlt_tso/audio/064/nchlt_tso_064m_0252.wav,hi leswi nga eka tsalwa,Illessi nga eka tsalwa.,60.0,17.391304347826086,2.4030039310455322,3.36,5,23
+Data/nchlt_tso/audio/184/nchlt_tso_184f_0545.wav,nyiko ya wena ku ya,niko ya wena ku ya,20.0,5.263157894736842,1.9250612258911133,5.4,5,19
+Data/nchlt_tso/audio/030/nchlt_tso_030m_0655.wav,vanhu lava a va ri,wana lava a vari,60.0,22.22222222222222,2.412926435470581,2.52,5,18
+Data/nchlt_tso/audio/190/nchlt_tso_190m_0025.wav,leswaku u hlamula xin we,let us ask Kusamula Shiyinweh,100.0,66.66666666666666,2.75826096534729,3.96,5,24
+Data/nchlt_tso/audio/035/nchlt_tso_035f_0043.wav,eka xiyenge xa nkomiso nkatsakanyo,e ka xiyenge xiang kumiso mkata ka yi,140.0,32.35294117647059,3.2370595932006836,3.96,5,34
+Data/nchlt_tso/audio/158/nchlt_tso_158f_0059.wav,xin we eka xiyenge xin,See you in the next video.,120.0,95.45454545454545,1.7888405323028564,2.88,5,22
+Data/nchlt_tso/audio/016/nchlt_tso_016m_0056.wav,wana a va pfanga na,wana a va vanga na.,40.0,15.789473684210526,2.855708122253418,4.56,5,19
+Data/nchlt_tso/audio/104/nchlt_tso_104f_0129.wav,wu ta nyika matimba eka,Uta nyika matimba eka,40.0,8.695652173913043,2.3470232486724854,4.92,5,23
+Data/nchlt_tso/audio/124/nchlt_tso_124m_0050.wav,vakangomana vahhuma amusambiki,vakangoma na vawuma amusambi ki.,166.66666666666669,16.666666666666664,3.1062488555908203,4.44,3,30
+Data/nchlt_tso/audio/126/nchlt_tso_126f_0491.wav,na nhlangano na nkhulukelano wa,Namshanga no na ku lokela no wa.,120.0,32.25806451612903,2.521267890930176,3.84,5,31
+Data/nchlt_tso/audio/002/nchlt_tso_002m_0466.wav,lava nga na xitsongwatsongwana xa,La vanga na xitonga to nga na xa,120.0,27.27272727272727,3.1090242862701416,3.0,5,33
+Data/nchlt_tso/audio/020/nchlt_tso_020m_0394.wav,khale katatana ayimbelela,Thank you very much.,133.33333333333331,80.0,2.333463430404663,3.96,3,25
+Data/nchlt_tso/audio/132/nchlt_tso_132m_0385.wav,miehleketo ya tsakisa naswona i,Mehleketoya tsakisa nasona i,60.0,9.67741935483871,2.294119358062744,3.96,5,31
+Data/nchlt_tso/audio/185/nchlt_tso_185f_0052.wav,ku va kona ka rixaka,ku va kola ka rixaka,20.0,5.0,2.461813449859619,2.04,5,20
+Data/nchlt_tso/audio/042/nchlt_tso_042f_0012.wav,maletere lamakulu lama tikisiweke na,Malaterela Makulula Matiki Siwekena,100.0,22.22222222222222,2.844808340072632,6.48,5,36
+Data/nchlt_tso/audio/093/nchlt_tso_093m_0017.wav,eka hina ku tsarilo matsalwa,e ka yena ku tsari lo matsalwa,100.0,14.285714285714285,2.4825899600982666,3.72,5,28
+Data/nchlt_tso/audio/127/nchlt_tso_127f_0543.wav,ku va kona ka rixaka,ku va kona kari xiaka,40.0,15.0,1.9920954704284668,2.76,5,20
+Data/nchlt_tso/audio/101/nchlt_tso_101m_0444.wav,a swi tiva leswaku a,Hashti wana swa ku a ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha,1080.0,800.0,8.715076208114624,2.4,5,20
+Data/nchlt_tso/audio/055/nchlt_tso_055m_0030.wav,swi ta va swa nkoka,Shita Baswanko ka?,100.0,36.84210526315789,2.0631370544433594,2.52,5,19
+Data/nchlt_tso/audio/055/nchlt_tso_055m_0190.wav,vugembuli bya rixaka ku sungula,wu game bulib tsari xa ka ku sungula,120.0,35.483870967741936,3.26727557182312,4.56,5,31
+Data/nchlt_tso/audio/180/nchlt_tso_180f_0107.wav,vo tala a va na,Wutala Abana.,100.0,46.666666666666664,1.7760229110717773,3.0,5,15
+Data/nchlt_tso/audio/095/nchlt_tso_095m_0364.wav,nga na vutihlamuleri bya ku,nga na vutisa muleri jagu,60.0,25.925925925925924,2.3622055053710938,3.48,5,27
+Data/nchlt_tso/audio/175/nchlt_tso_175f_0108.wav,to talanyana ta nkoka na,Totala nyamata nkoka na.,80.0,20.833333333333336,2.4725735187530518,3.0,5,24
+Data/nchlt_tso/audio/106/nchlt_tso_106m_0150.wav,lawa ya tala ku endliwa,Lava ya tala ku enkiwa,40.0,13.043478260869565,2.3383402824401855,2.4,5,23
+Data/nchlt_tso/audio/148/nchlt_tso_148f_0445.wav,nga ta ka a nga,nga ta ka a nga,0.0,0.0,2.1769115924835205,2.28,5,15
+Data/nchlt_tso/audio/189/nchlt_tso_189f_0132.wav,nyika mpfumelelo wa rixaka eka,nika mfumelelo wa rixaka eta,60.0,10.0,2.864757776260376,3.96,5,30
+Data/nchlt_tso/audio/129/nchlt_tso_129f_0136.wav,swi le ka xiyimo xa,Seleka xiyimo xa,60.0,21.052631578947366,1.8527793884277344,2.52,5,19
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0198.wav,na wun wana loyi a,Now I'm gonna loy a,80.0,50.0,2.0870044231414795,2.88,5,18
+Data/nchlt_tso/audio/136/nchlt_tso_136f_0460.wav,misava ya hela,Misaba ya hela,33.33333333333333,7.142857142857142,1.847459077835083,2.52,3,14
+Data/nchlt_tso/audio/051/nchlt_tso_051f_0167.wav,va faneleke ku swi tiva,wa fanelega ku swi tiva,40.0,13.043478260869565,2.319978713989258,3.0,5,23
+Data/nchlt_tso/audio/056/nchlt_tso_056f_0553.wav,ta lulama ku suka hi,Talulama ku sukayi,80.0,15.0,2.5074775218963623,2.76,5,20
+Data/nchlt_tso/audio/139/nchlt_tso_139f_0110.wav,swakudya swa kumeka,Saku Da Sakumeka,100.0,26.31578947368421,1.7292180061340332,2.28,3,19
+Data/nchlt_tso/audio/122/nchlt_tso_122f_0407.wav,xa nawu lowu na ku,shanawu lo na ku,60.0,27.77777777777778,2.198244571685791,3.6,5,18
+Data/nchlt_tso/audio/041/nchlt_tso_041f_0694.wav,ra wena ri le mavokweni,Rawena Rilewmavukwen,100.0,21.73913043478261,2.7058706283569336,2.88,5,23
+Data/nchlt_tso/audio/179/nchlt_tso_179m_0024.wav,ra ku va kona ka,Rakubakona ka?,100.0,31.25,1.786712646484375,2.64,5,16
+Data/nchlt_tso/audio/158/nchlt_tso_158f_0523.wav,ku kongoma kumbe ku nga,ku kongoma ku me konga,60.0,17.391304347826086,2.579826593399048,2.88,5,23
+Data/nchlt_tso/audio/163/nchlt_tso_163f_0104.wav,xa ririmi ro engetela ro,xa ri rimi ro engetela ro,40.0,4.166666666666666,2.672832489013672,3.84,5,24
+Data/nchlt_tso/audio/062/nchlt_tso_062m_0179.wav,xa nawu u ni mfanelo,shanawu wini wifanelo,100.0,35.0,2.280571460723877,3.96,5,20
+Data/nchlt_tso/audio/110/nchlt_tso_110m_0435.wav,mahungu yo ka ya nga,Ma wongu yo kaya nga,80.0,20.0,2.2236123085021973,2.76,5,20
+Data/nchlt_tso/audio/022/nchlt_tso_022m_0266.wav,kombisa ku twisisa ka nhlokomhaka,kombisa ku twisisa kanloko mhaka,40.0,9.090909090909092,2.6939032077789307,5.4,5,33
+Data/nchlt_tso/audio/080/nchlt_tso_080f_0418.wav,leyi u yi kumaka eka,le wu yi ku maka eka,80.0,20.0,2.078907012939453,2.76,5,20
+Data/nchlt_tso/audio/162/nchlt_tso_162f_0146.wav,hlamula hilaha swi faneleke na,famula hilashi fanelekena,100.0,23.333333333333332,2.507819175720215,4.2,5,30
+Data/nchlt_tso/audio/097/nchlt_tso_097m_0520.wav,valungu va tlanga kahle,Balumbhubatlanga ka hla hla hla,125.0,73.91304347826086,2.9704856872558594,2.16,4,23
+Data/nchlt_tso/audio/070/nchlt_tso_070f_0348.wav,wa muntima wo sungula,Let's take a look at her.,150.0,95.23809523809523,2.381747245788574,4.2,4,21
+Data/nchlt_tso/audio/070/nchlt_tso_070f_0385.wav,swin wana leswi nga kona,sungwana les nga kona,60.0,20.833333333333336,1.938469409942627,2.28,5,24
+Data/nchlt_tso/audio/137/nchlt_tso_137m_0088.wav,mahlonga aya xaviseriwa valungu,"Mashonga, ayasha visi riwa balu nk",150.0,38.70967741935484,2.925102472305298,4.32,4,31
+Data/nchlt_tso/audio/023/nchlt_tso_023f_0383.wav,tiva leswi va faneleke ku,tiva les se va a fanele te ku,100.0,28.000000000000004,2.5558969974517822,3.12,5,25
+Data/nchlt_tso/audio/138/nchlt_tso_138m_0264.wav,nyiko ya wena ni ku,Nico ya wena miku,60.0,21.052631578947366,1.8358817100524902,2.4,5,19
+Data/nchlt_tso/audio/135/nchlt_tso_135m_0357.wav,swi ta eka timhaka ta,sita eka timhaka ta,40.0,9.523809523809524,2.4736342430114746,2.28,5,21
+Data/nchlt_tso/audio/116/nchlt_tso_116m_0342.wav,eka xivulwa lexi nga laha,e ka xivulo les nga lah,100.0,24.0,2.6297762393951416,3.12,5,25
+Data/nchlt_tso/audio/077/nchlt_tso_077m_0435.wav,yena a nga n wi,yena a nga n wi,0.0,0.0,1.7957303524017334,3.48,5,15
+Data/nchlt_tso/audio/185/nchlt_tso_185f_0064.wav,leri u ri tsakelaka ku,leeru u ri tsakela kaku,60.0,18.181818181818183,2.265098810195923,2.52,5,22
+Data/nchlt_tso/audio/007/nchlt_tso_007m_0054.wav,a ku na mina ndzi,Aku namina nji.,100.0,29.411764705882355,1.881986141204834,3.6,5,17
+Data/nchlt_tso/audio/187/nchlt_tso_187f_0267.wav,leyi ku fanele ku tsariwa,le yu ku fanele ku tariwa,60.0,12.0,2.658656358718872,3.24,5,25
+Data/nchlt_tso/audio/172/nchlt_tso_172f_0011.wav,nkari wo kambela michini ya,Nga riwokambela michiniya,100.0,18.51851851851852,2.602598190307617,4.2,5,27
+Data/nchlt_tso/audio/024/nchlt_tso_024f_0041.wav,ya ku pulana leyi nga,yaku pulama le nga,80.0,19.047619047619047,1.944716453552246,8.04,5,21
+Data/nchlt_tso/audio/150/nchlt_tso_150m_0339.wav,u nga endla xikombelo xa,wu nga endla xikombelo xa,20.0,4.166666666666666,2.777205228805542,3.24,5,24
+Data/nchlt_tso/audio/173/nchlt_tso_173f_0442.wav,ka xiyenge xin wana na,ka xiyan ka xin wana ma?,60.0,27.27272727272727,2.5088729858398438,3.72,5,22
+Data/nchlt_tso/audio/150/nchlt_tso_150m_0421.wav,antswisiwa swinene naswona a wu,Anjisiwa sinene naswona a wu.,60.0,16.129032258064516,2.5871522426605225,7.92,5,31
+Data/nchlt_tso/audio/187/nchlt_tso_187f_0454.wav,lemuka nkoka wa matirhiselo ya,Lemukango ka wa matiriselo ya?,80.0,16.666666666666664,2.427004337310791,3.0,5,30
+Data/nchlt_tso/audio/136/nchlt_tso_136f_0383.wav,mahungu ya tsakisa naswona ya,Mahungu ya tsaki sana swona ya,60.0,10.344827586206897,2.584589958190918,3.48,5,29
+Data/nchlt_tso/audio/074/nchlt_tso_074m_0599.wav,xana hi ku vona ka,shana ya ku wana ka?,80.0,38.88888888888889,1.8717975616455078,2.88,5,18
+Data/nchlt_tso/audio/085/nchlt_tso_085f_0577.wav,loyi a nga na ku,low ya nga na ku.,60.0,25.0,2.2962095737457275,3.24,5,16
+Data/nchlt_tso/audio/054/nchlt_tso_054f_0250.wav,ku va na ku tsakela,ku wana ku tsakela,40.0,10.526315789473683,1.9106941223144531,3.96,5,19
+Data/nchlt_tso/audio/081/nchlt_tso_081m_0541.wav,masipala wa xifundza na wa,Massipala wa xifu nca na wa,60.0,15.384615384615385,2.5027592182159424,3.0,5,26
+Data/nchlt_tso/audio/088/nchlt_tso_088m_0442.wav,swi ta eka timhaka ta,Siddhaka eka timhaka ta ha.,60.0,47.61904761904761,2.6420364379882812,3.0,5,21
+Data/nchlt_tso/audio/123/nchlt_tso_123m_0427.wav,tinhlamulo ta wena ku ya,Tinxamulo ta wena ku ya,20.0,8.333333333333332,2.2340633869171143,2.64,5,24
+Data/nchlt_tso/audio/022/nchlt_tso_022m_0022.wav,na swona ku nga ri,nasona ku nga ri,40.0,11.11111111111111,2.328155279159546,3.96,5,18
+Data/nchlt_tso/audio/166/nchlt_tso_166m_0384.wav,swi ta endla leswaku ku,Sita endla lesa ku ku,80.0,17.391304347826086,2.0997366905212402,3.84,5,23
+Data/nchlt_tso/audio/106/nchlt_tso_106m_0387.wav,na un wana a nga,Na Umwana a nga,40.0,12.5,2.0457637310028076,2.88,5,16
+Data/nchlt_tso/audio/096/nchlt_tso_096m_0316.wav,ya marito lama tirhisiwaka ya,Yamari tolamatiriswaka ya.,100.0,24.137931034482758,2.567629098892212,3.48,5,29
+Data/nchlt_tso/audio/123/nchlt_tso_123m_0417.wav,ku hlaya na ku kokeka,kusaya na ku kokeka,40.0,14.285714285714285,2.0644161701202393,3.24,5,21
+Data/nchlt_tso/audio/069/nchlt_tso_069m_0353.wav,va nga endlaku xikombelo xa,ku wanga endla ku xikombelo xia,100.0,22.22222222222222,2.8812479972839355,4.68,5,27
+Data/nchlt_tso/audio/143/nchlt_tso_143m_0214.wav,a nga na matimba yo,Angana matimba yo.,80.0,15.789473684210526,2.1660866737365723,4.8,5,19
+Data/nchlt_tso/audio/042/nchlt_tso_042f_0252.wav,ku avelana ka xavisiwa eka mabindzu,ku avelana ka xa visi wa eka ma binzu,83.33333333333334,11.428571428571429,3.3187365531921387,4.08,6,35
+Data/nchlt_tso/audio/138/nchlt_tso_138m_0152.wav,xikombelo xi nga fambelani ni,xikombelo xi nga fambelani ni,0.0,0.0,2.550309181213379,3.72,5,29
+Data/nchlt_tso/audio/093/nchlt_tso_093m_0010.wav,ra le kaya ku ya,Heraleka ya ku ya.,80.0,37.5,2.1471774578094482,3.6,5,16
+Data/nchlt_tso/audio/103/nchlt_tso_103f_0534.wav,swivutiso leswi nga ehansi ka,See you in the next video.,120.0,82.75862068965517,2.555190086364746,3.12,5,29
+Data/nchlt_tso/audio/038/nchlt_tso_038f_0051.wav,swi fanele swi tekiwa swi,swi fanele swi teki wa swi hlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlahlah,60.0,1272.0,29.00044536590576,3.48,5,25
+Data/nchlt_tso/audio/067/nchlt_tso_067f_0534.wav,wa yena a a ri,Wa ya na a a ri,40.0,14.285714285714285,1.8053503036499023,3.12,5,14
+Data/nchlt_tso/audio/098/nchlt_tso_098m_0023.wav,mali ya ku yimbelela yi tele,Maliya kwiimbelela yitele,100.0,17.857142857142858,2.839372396469116,3.36,6,28
+Data/nchlt_tso/audio/084/nchlt_tso_084m_0054.wav,wana na xin wana eka,Wa na na xin wana eka,40.0,5.0,2.351210594177246,2.76,5,20
+Data/nchlt_tso/audio/176/nchlt_tso_176f_0416.wav,na mfanelo ya nawu wa,nam fanelo ya na wa,60.0,19.047619047619047,2.6016454696655273,4.08,5,21
+Data/nchlt_tso/audio/082/nchlt_tso_082f_0061.wav,lowu kumbe milawu leyi tirhisiwaka,low combe milawulei tirisiwaka,100.0,17.647058823529413,2.4450721740722656,4.08,5,34
+Data/nchlt_tso/audio/186/nchlt_tso_186m_0029.wav,ya timhaka ya fambelana na,ya timhaka ya fambelana na,0.0,0.0,2.504990816116333,3.12,5,26
+Data/nchlt_tso/audio/167/nchlt_tso_167m_0256.wav,loko ku nga si sungula,Loko konga se sungolana.,80.0,31.818181818181817,2.2252843379974365,3.0,5,22
