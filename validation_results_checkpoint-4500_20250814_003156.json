@@ -1,0 +1,2721 @@
+{
+  "summary": {
+    "checkpoint_path": "C:\\Poroject\\NEW SCRIPT\\whisper_checkpoints\\checkpoint-4500.pt",
+    "total_samples": 300,
+    "valid_samples": 300,
+    "failed_samples": 0,
+    "average_wer": 47.22063492063492,
+    "average_cer": 15.579681228460629,
+    "min_wer": 0.0,
+    "max_wer": 225.0,
+    "min_cer": 0.0,
+    "max_cer": 77.77777777777779,
+    "std_wer": 37.441221222220264,
+    "std_cer": 13.371363159075003,
+    "average_processing_time": 0.7050570249557495,
+    "total_processing_time": 211.51710748672485,
+    "real_time_factor": 0.1911967200769469
+  },
+  "detailed_results": [
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/138/nchlt_tso_138m_0009.wav",
+      "reference": "xi tala ku va na",
+      "prediction": "xie tala ku va na",
+      "wer_score": 20.0,
+      "cer_score": 6.25,
+      "processing_time": 0.9564540386199951,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/188/nchlt_tso_188m_0293.wav",
+      "reference": "a nga ta va a",
+      "prediction": "a nga ta va a",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.46030545234680176,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/039/nchlt_tso_039m_0393.wav",
+      "reference": "leswaku mukamberiwa a nga twisisi",
+      "prediction": "leswaku mukamberi evo a nga twisisi",
+      "wer_score": 40.0,
+      "cer_score": 12.121212121212121,
+      "processing_time": 0.7121155261993408,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/157/nchlt_tso_157m_0938.wav",
+      "reference": "mali ya n wina hi",
+      "prediction": "mali ya n wi na hi",
+      "wer_score": 40.0,
+      "cer_score": 5.88235294117647,
+      "processing_time": 0.882697582244873,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/172/nchlt_tso_172f_0099.wav",
+      "reference": "nga si hela masiku ya",
+      "prediction": "Gastihela masiku ya",
+      "wer_score": 60.0,
+      "cer_score": 19.047619047619047,
+      "processing_time": 0.6485791206359863,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/083/nchlt_tso_083f_0534.wav",
+      "reference": "ku ri karhi ku kamberiwa",
+      "prediction": "Kuri kar ku kambe rio",
+      "wer_score": 100.0,
+      "cer_score": 25.0,
+      "processing_time": 0.5286414623260498,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/170/nchlt_tso_170f_0169.wav",
+      "reference": "a navelaka ku rhumela xikombelo",
+      "prediction": "a navelaka ku rhumela xikombelo",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5398416519165039,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0083.wav",
+      "reference": "muganga waka hina",
+      "prediction": "Mugega nga wa ka yena",
+      "wer_score": 166.66666666666669,
+      "cer_score": 35.294117647058826,
+      "processing_time": 0.5060734748840332,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/163/nchlt_tso_163f_0280.wav",
+      "reference": "ku xaviselana exikarhi ka matiko",
+      "prediction": "ku xavise landa exikarhi ka matiko",
+      "wer_score": 40.0,
+      "cer_score": 6.25,
+      "processing_time": 0.7979745864868164,
+      "audio_duration": 6.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/057/nchlt_tso_057f_0322.wav",
+      "reference": "xihlawuhlawu xo ka xi nga",
+      "prediction": "xie hlawudza wo hloka xin na",
+      "wer_score": 120.0,
+      "cer_score": 44.0,
+      "processing_time": 0.6499316692352295,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/180/nchlt_tso_180f_0198.wav",
+      "reference": "ku katsiwa eka xiyenge xa",
+      "prediction": "u katsiwa eka xiyenge xa",
+      "wer_score": 20.0,
+      "cer_score": 4.0,
+      "processing_time": 0.6442596912384033,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0389.wav",
+      "reference": "wa kayivela naswona a wu",
+      "prediction": "wa kayivela naswona a wu",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.553856372833252,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/132/nchlt_tso_132m_0049.wav",
+      "reference": "swa tinhlamulo to koma swo",
+      "prediction": "Zatindhlamulo to koma swa",
+      "wer_score": 60.0,
+      "cer_score": 19.230769230769234,
+      "processing_time": 0.5977921485900879,
+      "audio_duration": 3.72
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/052/nchlt_tso_052f_0065.wav",
+      "reference": "u hlamula swivutiso leswi nga",
+      "prediction": "O hlamula swivutti swi leshinga",
+      "wer_score": 80.0,
+      "cer_score": 24.137931034482758,
+      "processing_time": 0.656944751739502,
+      "audio_duration": 7.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/032/nchlt_tso_032f_0669.wav",
+      "reference": "leswi a nga na swona",
+      "prediction": "let's u a nga na swona",
+      "wer_score": 40.0,
+      "cer_score": 20.0,
+      "processing_time": 0.735539436340332,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/057/nchlt_tso_057f_0432.wav",
+      "reference": "fanele swi tekiwa swi vula",
+      "prediction": "fanele xiteki wa swivula",
+      "wer_score": 80.0,
+      "cer_score": 19.230769230769234,
+      "processing_time": 0.6199948787689209,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/070/nchlt_tso_070f_0267.wav",
+      "reference": "lava tivekaka ni lava nga",
+      "prediction": "La va tive ka a ka ni lava nga",
+      "wer_score": 120.0,
+      "cer_score": 20.0,
+      "processing_time": 0.7946271896362305,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/051/nchlt_tso_051f_0173.wav",
+      "reference": "ku ya emahlweni ka ku",
+      "prediction": "Go ya emahlweni ka ku",
+      "wer_score": 20.0,
+      "cer_score": 9.523809523809524,
+      "processing_time": 0.4753892421722412,
+      "audio_duration": 2.76
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/055/nchlt_tso_055m_0279.wav",
+      "reference": "nxaxameto wa vafambisi va mbangu",
+      "prediction": "In xa xa meto wa wa fambisi van bangu",
+      "wer_score": 160.0,
+      "cer_score": 25.0,
+      "processing_time": 0.6599705219268799,
+      "audio_duration": 5.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/095/nchlt_tso_095m_0069.wav",
+      "reference": "a xi na xivutiso xa",
+      "prediction": "a xi na xivutiso xa",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.8747432231903076,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/091/nchlt_tso_091m_0392.wav",
+      "reference": "vuvulavuri bya ririmi ro engetela",
+      "prediction": "vovo vo lavuri byareri mirho engetela",
+      "wer_score": 100.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 0.9731216430664062,
+      "audio_duration": 6.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/167/nchlt_tso_167m_0030.wav",
+      "reference": "eka loyi a nga na",
+      "prediction": "eka loyi a nga na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.9827888011932373,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/117/nchlt_tso_117m_0127.wav",
+      "reference": "ka xiyenge xin wana na",
+      "prediction": "ka xiyenge xin wana na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.49904298782348633,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/152/nchlt_tso_152m_0253.wav",
+      "reference": "kuni valavisisi va ta maxelo",
+      "prediction": "kundivalave sisi va ta ma xelo",
+      "wer_score": 80.0,
+      "cer_score": 17.857142857142858,
+      "processing_time": 0.5575499534606934,
+      "audio_duration": 5.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0425.wav",
+      "reference": "yena n wini na ya",
+      "prediction": "yena n wi le na ya",
+      "wer_score": 40.0,
+      "cer_score": 17.647058823529413,
+      "processing_time": 0.8169045448303223,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/051/nchlt_tso_051f_0322.wav",
+      "reference": "tisa ku rhula na ku",
+      "prediction": "tiswaku roive landa kond",
+      "wer_score": 100.0,
+      "cer_score": 63.1578947368421,
+      "processing_time": 0.5959107875823975,
+      "audio_duration": 2.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/129/nchlt_tso_129f_0207.wav",
+      "reference": "na un wana a a",
+      "prediction": "na u wa na a a",
+      "wer_score": 60.0,
+      "cer_score": 14.285714285714285,
+      "processing_time": 0.4631035327911377,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/011/nchlt_tso_011f_0146.wav",
+      "reference": "eka xiyenge xin wana na",
+      "prediction": "eka xiyenge xin wana na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5498130321502686,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/013/nchlt_tso_013m_0065.wav",
+      "reference": "ku nga va na ku",
+      "prediction": "ku nga va na ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6123330593109131,
+      "audio_duration": 4.44
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/042/nchlt_tso_042f_0284.wav",
+      "reference": "ku nga ri ntsena ku",
+      "prediction": "ku nga riindzene ku",
+      "wer_score": 40.0,
+      "cer_score": 21.052631578947366,
+      "processing_time": 0.515188455581665,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/041/nchlt_tso_041f_0006.wav",
+      "reference": "ri nga rivariwi eka matimu",
+      "prediction": "ringarhi va ri wu eka matim",
+      "wer_score": 100.0,
+      "cer_score": 30.76923076923077,
+      "processing_time": 0.7883627414703369,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/186/nchlt_tso_186m_0050.wav",
+      "reference": "maangulelo ya xitsalwambiko ya kombisa",
+      "prediction": "maa nga leelo ya xitsalwa miko ya kubisa",
+      "wer_score": 120.0,
+      "cer_score": 21.052631578947366,
+      "processing_time": 0.8274886608123779,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/151/nchlt_tso_151m_0350.wav",
+      "reference": "swi vula leswaku va ka",
+      "prediction": "Zivula leswaku va ka",
+      "wer_score": 40.0,
+      "cer_score": 13.636363636363635,
+      "processing_time": 0.5816507339477539,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/136/nchlt_tso_136f_0446.wav",
+      "reference": "va swikombelo va fanele ku",
+      "prediction": "Na swikombelo wa fanele ku",
+      "wer_score": 40.0,
+      "cer_score": 7.6923076923076925,
+      "processing_time": 0.5238194465637207,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/069/nchlt_tso_069m_0195.wav",
+      "reference": "nga hlamuseriwa eka ndzimana ya",
+      "prediction": "nga hlamuseriwa eka ndzimana ya",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6658570766448975,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/185/nchlt_tso_185f_0217.wav",
+      "reference": "ri loyi a nga na",
+      "prediction": "We lo hi a nga na",
+      "wer_score": 60.0,
+      "cer_score": 25.0,
+      "processing_time": 0.8044118881225586,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/176/nchlt_tso_176f_0021.wav",
+      "reference": "muendli wa xikombelo a nga",
+      "prediction": "Enluwa xikombelo a nga",
+      "wer_score": 40.0,
+      "cer_score": 19.230769230769234,
+      "processing_time": 0.5992774963378906,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/106/nchlt_tso_106m_0298.wav",
+      "reference": "ya maavelo ya timaraka eka",
+      "prediction": "ya maavelele u ti maraka eka",
+      "wer_score": 80.0,
+      "cer_score": 23.076923076923077,
+      "processing_time": 0.6482808589935303,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/173/nchlt_tso_173f_0032.wav",
+      "reference": "va kona ka ntlawa wa",
+      "prediction": "wa kona kan tlawa wa",
+      "wer_score": 60.0,
+      "cer_score": 15.0,
+      "processing_time": 0.8478853702545166,
+      "audio_duration": 5.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/078/nchlt_tso_078m_0143.wav",
+      "reference": "ku va a nga ri",
+      "prediction": "kuvat a nga ri",
+      "wer_score": 40.0,
+      "cer_score": 14.285714285714285,
+      "processing_time": 0.6170237064361572,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/100/nchlt_tso_100m_0065.wav",
+      "reference": "ya wena yi nga tlakusiwa",
+      "prediction": "ya wena y nga tla ku swi y wa",
+      "wer_score": 120.0,
+      "cer_score": 29.166666666666668,
+      "processing_time": 0.7871086597442627,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/132/nchlt_tso_132m_0161.wav",
+      "reference": "ri n wana wa yena",
+      "prediction": "Rindwana wa yena",
+      "wer_score": 60.0,
+      "cer_score": 11.76470588235294,
+      "processing_time": 0.5291998386383057,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/161/nchlt_tso_161m_0529.wav",
+      "reference": "va ku tumbuluxiwile xitsalwambiko xo",
+      "prediction": "va kut tumbuluxiwile xitsalwa mbiko xo",
+      "wer_score": 60.0,
+      "cer_score": 5.555555555555555,
+      "processing_time": 1.033820629119873,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/110/nchlt_tso_110m_0540.wav",
+      "reference": "va khumbhaka va fanele ku",
+      "prediction": "We kumbe ka wa fanele ku",
+      "wer_score": 80.0,
+      "cer_score": 24.0,
+      "processing_time": 0.7461662292480469,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/022/nchlt_tso_022m_0328.wav",
+      "reference": "ku va va kota ku",
+      "prediction": "ku va va kota ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.7651607990264893,
+      "audio_duration": 3.72
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/174/nchlt_tso_174m_0190.wav",
+      "reference": "ri na nandzu ku fikela",
+      "prediction": "Rinana aandzo ku fikele",
+      "wer_score": 80.0,
+      "cer_score": 22.727272727272727,
+      "processing_time": 0.8822507858276367,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/024/nchlt_tso_024f_0174.wav",
+      "reference": "nga hlamuseriwa eka ndzimana ya",
+      "prediction": "nga hlamuseriwa eka ndzimana ya",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6768033504486084,
+      "audio_duration": 7.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/114/nchlt_tso_114m_0177.wav",
+      "reference": "mani loyi a nga ta",
+      "prediction": "mani loyi a nga ta",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5114519596099854,
+      "audio_duration": 5.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/110/nchlt_tso_110m_0024.wav",
+      "reference": "loyi a nga na ku",
+      "prediction": "loyi a nga na ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.4682486057281494,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/038/nchlt_tso_038f_0485.wav",
+      "reference": "swi fanele swi koteka ku",
+      "prediction": "swi fanele swi kwa teka ku",
+      "wer_score": 40.0,
+      "cer_score": 12.5,
+      "processing_time": 0.8521201610565186,
+      "audio_duration": 2.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/136/nchlt_tso_136f_0354.wav",
+      "reference": "leswi va nga ta swi",
+      "prediction": "lef swi van data swi",
+      "wer_score": 80.0,
+      "cer_score": 31.57894736842105,
+      "processing_time": 0.7576627731323242,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/050/nchlt_tso_050f_0191.wav",
+      "reference": "a swi fambelani na nhlokomhaka",
+      "prediction": "a xi fambelana ni na nhlokomhaka",
+      "wer_score": 60.0,
+      "cer_score": 16.666666666666664,
+      "processing_time": 0.732008695602417,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/104/nchlt_tso_104f_0518.wav",
+      "reference": "vutivi byo amukeleka bya swilaveko",
+      "prediction": "voetivi bytwa amukeleka bya swilaveko",
+      "wer_score": 40.0,
+      "cer_score": 14.705882352941178,
+      "processing_time": 0.7459225654602051,
+      "audio_duration": 3.72
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/168/nchlt_tso_168f_0120.wav",
+      "reference": "kona a ya fambelani na",
+      "prediction": "kona a ya fambelanina",
+      "wer_score": 40.0,
+      "cer_score": 4.545454545454546,
+      "processing_time": 0.48386573791503906,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/064/nchlt_tso_064m_0083.wav",
+      "reference": "a ya fambelani na xikongomelo",
+      "prediction": "a ya fambelani na xikongomelo",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.8599646091461182,
+      "audio_duration": 4.68
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/104/nchlt_tso_104f_0409.wav",
+      "reference": "yi nge swi koti ku",
+      "prediction": "H型 we s",
+      "wer_score": 100.0,
+      "cer_score": 77.77777777777779,
+      "processing_time": 2.2506394386291504,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/139/nchlt_tso_139f_0099.wav",
+      "reference": "swi kahle naswona swi pfumala",
+      "prediction": "Sika hela naswona swi pfumala",
+      "wer_score": 40.0,
+      "cer_score": 17.24137931034483,
+      "processing_time": 0.64847731590271,
+      "audio_duration": 2.76
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/103/nchlt_tso_103f_0471.wav",
+      "reference": "na ku rhula na ku",
+      "prediction": "na ku roela na ku",
+      "wer_score": 20.0,
+      "cer_score": 11.76470588235294,
+      "processing_time": 0.7842845916748047,
+      "audio_duration": 2.76
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/176/nchlt_tso_176f_0300.wav",
+      "reference": "a ku na nkarhi lowu",
+      "prediction": "a kunangkarhi low",
+      "wer_score": 80.0,
+      "cer_score": 21.052631578947366,
+      "processing_time": 0.7408363819122314,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/173/nchlt_tso_173f_0019.wav",
+      "reference": "va tikuma va ri eka",
+      "prediction": "Wati kuma wa rir eka",
+      "wer_score": 80.0,
+      "cer_score": 26.31578947368421,
+      "processing_time": 0.5387964248657227,
+      "audio_duration": 6.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/096/nchlt_tso_096m_0517.wav",
+      "reference": "wa timaraka ku kombisa ku",
+      "prediction": "Watte maraka ku kombisa ku",
+      "wer_score": 40.0,
+      "cer_score": 12.0,
+      "processing_time": 0.5265195369720459,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/173/nchlt_tso_173f_0194.wav",
+      "reference": "matimu ya tsakisa vana loko ya hlayiwa",
+      "prediction": "matimu ya tsakisa vanal loko ya xa yi wa",
+      "wer_score": 57.14285714285714,
+      "cer_score": 13.157894736842104,
+      "processing_time": 1.3580260276794434,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/125/nchlt_tso_125m_0143.wav",
+      "reference": "va fanele ku va na",
+      "prediction": "wa fanele ku va na",
+      "wer_score": 20.0,
+      "cer_score": 5.555555555555555,
+      "processing_time": 0.8479387760162354,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/058/nchlt_tso_058m_0369.wav",
+      "reference": "ku va a ri na",
+      "prediction": "ku va a ri na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6042478084564209,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/074/nchlt_tso_074m_0002.wav",
+      "reference": "fikelela ku navela ka vona",
+      "prediction": "fikelela kunavela ka vona",
+      "wer_score": 40.0,
+      "cer_score": 3.8461538461538463,
+      "processing_time": 0.5647139549255371,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/100/nchlt_tso_100m_0286.wav",
+      "reference": "swakudya swa kumeka",
+      "prediction": "Sa ku ra swa kumeka",
+      "wer_score": 100.0,
+      "cer_score": 21.052631578947366,
+      "processing_time": 0.5201930999755859,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/043/nchlt_tso_043f_0190.wav",
+      "reference": "a va ri karhi va",
+      "prediction": "a vaar eka riva",
+      "wer_score": 80.0,
+      "cer_score": 37.5,
+      "processing_time": 0.556973934173584,
+      "audio_duration": 2.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/186/nchlt_tso_186m_0302.wav",
+      "reference": "swo tala naswona xi hlanganisa",
+      "prediction": "schut tala naswona xilhlanganisa",
+      "wer_score": 60.0,
+      "cer_score": 16.666666666666664,
+      "processing_time": 0.8279275894165039,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/187/nchlt_tso_187f_0359.wav",
+      "reference": "wa mafambisele ya swa mbangu",
+      "prediction": "wa mafambisela ya swa mbango",
+      "wer_score": 40.0,
+      "cer_score": 7.142857142857142,
+      "processing_time": 0.6896908283233643,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/123/nchlt_tso_123m_0322.wav",
+      "reference": "miehleketo ya tsakisa naswona i",
+      "prediction": "Mielleketo ya tsakisa naswona i",
+      "wer_score": 20.0,
+      "cer_score": 3.225806451612903,
+      "processing_time": 0.6728060245513916,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/157/nchlt_tso_157m_0486.wav",
+      "reference": "masikulawa mabhuruku yamajaha yamanya",
+      "prediction": "ma siku lawa ma purhuku ya mayja ya maanya",
+      "wer_score": 225.0,
+      "cer_score": 29.72972972972973,
+      "processing_time": 0.6453890800476074,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/121/nchlt_tso_121m_0420.wav",
+      "reference": "eka nawu wa vugembuli bya",
+      "prediction": "eka nawu wa vugembule bya",
+      "wer_score": 20.0,
+      "cer_score": 4.0,
+      "processing_time": 0.5074882507324219,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/145/nchlt_tso_145m_0029.wav",
+      "reference": "eka ku kuma vugembuli byo",
+      "prediction": "eka ku ku mavuntemboelibio",
+      "wer_score": 60.0,
+      "cer_score": 32.0,
+      "processing_time": 1.1396925449371338,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/172/nchlt_tso_172f_0508.wav",
+      "reference": "ku va a ri na",
+      "prediction": "wu va a ri na",
+      "wer_score": 20.0,
+      "cer_score": 7.6923076923076925,
+      "processing_time": 0.6352798938751221,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/011/nchlt_tso_011f_0096.wav",
+      "reference": "ndlela yo kongoma naswona a",
+      "prediction": "Lela yo kongoma na swona a",
+      "wer_score": 60.0,
+      "cer_score": 11.11111111111111,
+      "processing_time": 0.9631469249725342,
+      "audio_duration": 4.92
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/165/nchlt_tso_165f_0427.wav",
+      "reference": "leyi nga riki na matimba",
+      "prediction": "le henga rikindamati yi nba",
+      "wer_score": 100.0,
+      "cer_score": 45.83333333333333,
+      "processing_time": 0.743154764175415,
+      "audio_duration": 4.44
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/157/nchlt_tso_157m_0003.wav",
+      "reference": "vatlangi vana mali swinene",
+      "prediction": "Watlangi van amali vanene",
+      "wer_score": 100.0,
+      "cer_score": 23.076923076923077,
+      "processing_time": 0.6871628761291504,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/122/nchlt_tso_122f_0420.wav",
+      "reference": "nga fanela ku ya hi",
+      "prediction": "we nga fane lakwe ayi",
+      "wer_score": 100.0,
+      "cer_score": 52.63157894736842,
+      "processing_time": 0.6721742153167725,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/039/nchlt_tso_039m_0342.wav",
+      "reference": "ku ya eka rin wana",
+      "prediction": "u ya eka rin wana",
+      "wer_score": 20.0,
+      "cer_score": 5.555555555555555,
+      "processing_time": 0.6198875904083252,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/020/nchlt_tso_020m_0114.wav",
+      "reference": "swi lava mati ku kurisa swimilana",
+      "prediction": "swi lava mati ku kurisa similana",
+      "wer_score": 16.666666666666664,
+      "cer_score": 3.0303030303030303,
+      "processing_time": 0.522852897644043,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/138/nchlt_tso_138m_0102.wav",
+      "reference": "swiletelo leswi andlariweke eka xivutiso",
+      "prediction": "Sile teleloleze landla riveke eka xivutiso",
+      "wer_score": 80.0,
+      "cer_score": 27.500000000000004,
+      "processing_time": 0.678462028503418,
+      "audio_duration": 4.44
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0642.wav",
+      "reference": "leswi a a ta swi",
+      "prediction": "let's a ta swi",
+      "wer_score": 40.0,
+      "cer_score": 31.25,
+      "processing_time": 0.5724992752075195,
+      "audio_duration": 2.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/182/nchlt_tso_182f_0125.wav",
+      "reference": "vavasati va teka lembe loko va xava",
+      "prediction": "Wa va swa tiveteka lembe loko wa xa ava",
+      "wer_score": 85.71428571428571,
+      "cer_score": 31.428571428571427,
+      "processing_time": 1.3518333435058594,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/011/nchlt_tso_011f_0027.wav",
+      "reference": "xin we xa xitsalwana na",
+      "prediction": "xin we xa xitsalwa na na",
+      "wer_score": 40.0,
+      "cer_score": 4.3478260869565215,
+      "processing_time": 0.8512976169586182,
+      "audio_duration": 4.92
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/104/nchlt_tso_104f_0450.wav",
+      "reference": "mutirhi wa le kaya a",
+      "prediction": "Mutirho le ka ya a a",
+      "wer_score": 100.0,
+      "cer_score": 35.0,
+      "processing_time": 0.9525196552276611,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/118/nchlt_tso_118m_0566.wav",
+      "reference": "u vile murhangeri wa matimba",
+      "prediction": "O vilemmer langerwa matimba",
+      "wer_score": 80.0,
+      "cer_score": 25.0,
+      "processing_time": 0.7476990222930908,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/101/nchlt_tso_101m_0405.wav",
+      "reference": "ku nyuhela aswi laveki",
+      "prediction": "kumwele a hlaveke",
+      "wer_score": 100.0,
+      "cer_score": 50.0,
+      "processing_time": 0.8386778831481934,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/089/nchlt_tso_089m_0103.wav",
+      "reference": "ri na ku twisisa ka",
+      "prediction": "Rina voetwisisa ka",
+      "wer_score": 80.0,
+      "cer_score": 21.052631578947366,
+      "processing_time": 0.5884478092193604,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/062/nchlt_tso_062m_0446.wav",
+      "reference": "fanele ku endla leswaku ku",
+      "prediction": "Fanele ku endla leswaku ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5222835540771484,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/132/nchlt_tso_132m_0153.wav",
+      "reference": "mfanelo yo byala swimila hi",
+      "prediction": "En fanelelo yo byala swi milayi",
+      "wer_score": 80.0,
+      "cer_score": 29.629629629629626,
+      "processing_time": 0.7681410312652588,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/059/nchlt_tso_059m_0177.wav",
+      "reference": "eka ku ringeta ku katsakanya",
+      "prediction": "eka ku ringeta ku katsakanya",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.626225471496582,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/164/nchlt_tso_164f_0361.wav",
+      "reference": "ya ntiyiso leswaku a ta",
+      "prediction": "henhi yiso leswaku a ta",
+      "wer_score": 40.0,
+      "cer_score": 21.73913043478261,
+      "processing_time": 0.8402948379516602,
+      "audio_duration": 3.72
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/123/nchlt_tso_123m_0349.wav",
+      "reference": "ku tumbuluxiwile xitsalwambiko xa kahle",
+      "prediction": "kutombo lowixiwile xitsalwa mbiko xa kahle",
+      "wer_score": 80.0,
+      "cer_score": 20.51282051282051,
+      "processing_time": 0.7777061462402344,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/168/nchlt_tso_168f_0100.wav",
+      "reference": "ku te ku fuma ka",
+      "prediction": "kut eka ku fuma ka",
+      "wer_score": 40.0,
+      "cer_score": 25.0,
+      "processing_time": 0.5627217292785645,
+      "audio_duration": 5.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/172/nchlt_tso_172f_0447.wav",
+      "reference": "nkatsakanyo nkomiso wa kona wa",
+      "prediction": "Mika tsakanyo nkomiso wa kona wa",
+      "wer_score": 40.0,
+      "cer_score": 10.0,
+      "processing_time": 0.6222641468048096,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/005/nchlt_tso_005f_0015.wav",
+      "reference": "loko a wu fana na",
+      "prediction": "loko a wu fana na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5141720771789551,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/050/nchlt_tso_050f_0092.wav",
+      "reference": "loko ya pimanisiwa na ya",
+      "prediction": "loko ya pimana ni xiv wana ya",
+      "wer_score": 80.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 0.8298394680023193,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/125/nchlt_tso_125m_0120.wav",
+      "reference": "un wana a nga swi",
+      "prediction": "O nga na a nga swi",
+      "wer_score": 60.0,
+      "cer_score": 29.411764705882355,
+      "processing_time": 0.6476345062255859,
+      "audio_duration": 6.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/138/nchlt_tso_138m_0208.wav",
+      "reference": "nga fanela ku ya hi",
+      "prediction": "nga fanele ku ya hi",
+      "wer_score": 20.0,
+      "cer_score": 5.263157894736842,
+      "processing_time": 0.49710845947265625,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/026/nchlt_tso_026f_0386.wav",
+      "reference": "va nyiko ya wena yi",
+      "prediction": "va nyiko ya wena yi",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5583467483520508,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/005/nchlt_tso_005f_0483.wav",
+      "reference": "swi tala ku fambelana na",
+      "prediction": "swi tala ku fambelana na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5098955631256104,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/100/nchlt_tso_100m_0087.wav",
+      "reference": "leyi a nga na yona",
+      "prediction": "leyi a nga na yona",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 1.1203134059906006,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/070/nchlt_tso_070f_0353.wav",
+      "reference": "manana a a ri musamariya",
+      "prediction": "Mana na a rin mosa maria",
+      "wer_score": 100.0,
+      "cer_score": 29.166666666666668,
+      "processing_time": 0.824124813079834,
+      "audio_duration": 5.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/082/nchlt_tso_082f_0612.wav",
+      "reference": "a nga ri ki na",
+      "prediction": "a nga rikina",
+      "wer_score": 60.0,
+      "cer_score": 14.285714285714285,
+      "processing_time": 0.8278639316558838,
+      "audio_duration": 2.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/040/nchlt_tso_040f_0445.wav",
+      "reference": "nkatsakanyo nkomiso wa kona wa",
+      "prediction": "nga tsak a nyongkomiso wa kona wa",
+      "wer_score": 80.0,
+      "cer_score": 20.0,
+      "processing_time": 0.9513239860534668,
+      "audio_duration": 6.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/168/nchlt_tso_168f_0391.wav",
+      "reference": "ti fanele ku vona leswaku",
+      "prediction": "tifan ni le ku vona leswaku",
+      "wer_score": 60.0,
+      "cer_score": 20.0,
+      "processing_time": 0.9757401943206787,
+      "audio_duration": 2.76
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/003/nchlt_tso_003f_0481.wav",
+      "reference": "vantima vanghenisa mali laha tikweni",
+      "prediction": "van timavanghen ni samali laha tiko eet",
+      "wer_score": 120.0,
+      "cer_score": 27.77777777777778,
+      "processing_time": 0.6130671501159668,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/090/nchlt_tso_090m_0337.wav",
+      "reference": "xi nga ka xi nga",
+      "prediction": "Shingga ka swi nga",
+      "wer_score": 60.0,
+      "cer_score": 37.5,
+      "processing_time": 0.6397609710693359,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/181/nchlt_tso_181m_0391.wav",
+      "reference": "lowu vamanana va nga na",
+      "prediction": "low van manana vanga na",
+      "wer_score": 80.0,
+      "cer_score": 17.391304347826086,
+      "processing_time": 0.48906588554382324,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/127/nchlt_tso_127f_0371.wav",
+      "reference": "kala xi nga ri kahle",
+      "prediction": "kala xi nga ri ka swi",
+      "wer_score": 40.0,
+      "cer_score": 20.0,
+      "processing_time": 0.5369579792022705,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/026/nchlt_tso_026f_0777.wav",
+      "reference": "ku vulavuriwa xitsonga ekaya",
+      "prediction": "kubula voer wa swi tsonga eka eka e",
+      "wer_score": 200.0,
+      "cer_score": 50.0,
+      "processing_time": 0.5711958408355713,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/015/nchlt_tso_015m_0018.wav",
+      "reference": "i yini lexi xi nga",
+      "prediction": "eiii yi mis lexi xi nga",
+      "wer_score": 60.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 17.81575322151184,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/143/nchlt_tso_143m_0342.wav",
+      "reference": "lawa khale a ya nga",
+      "prediction": "lawa kale a ya nga",
+      "wer_score": 20.0,
+      "cer_score": 5.263157894736842,
+      "processing_time": 0.4999852180480957,
+      "audio_duration": 4.92
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0436.wav",
+      "reference": "na ku rhula na ku",
+      "prediction": "na ku roel na na ku",
+      "wer_score": 40.0,
+      "cer_score": 23.52941176470588,
+      "processing_time": 0.5182628631591797,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/058/nchlt_tso_058m_0246.wav",
+      "reference": "giredi yin wana na yin",
+      "prediction": "Gerhedening wana na yi",
+      "wer_score": 60.0,
+      "cer_score": 31.818181818181817,
+      "processing_time": 0.5129106044769287,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/123/nchlt_tso_123m_0422.wav",
+      "reference": "ya eka xiyimo xa le",
+      "prediction": "ya eka xiyimo xa le",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.470184326171875,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/036/nchlt_tso_036f_0549.wav",
+      "reference": "leti a ti nga wu",
+      "prediction": "leti apting afu",
+      "wer_score": 80.0,
+      "cer_score": 31.25,
+      "processing_time": 0.5157060623168945,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/110/nchlt_tso_110m_0134.wav",
+      "reference": "leyi nga ta ka yi",
+      "prediction": "lehinga ta ka yi",
+      "wer_score": 40.0,
+      "cer_score": 11.76470588235294,
+      "processing_time": 0.5700333118438721,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/157/nchlt_tso_157m_0017.wav",
+      "reference": "ala kumbe ku tsandzeka ku",
+      "prediction": "aalakumbe ku tsandzeka ku",
+      "wer_score": 40.0,
+      "cer_score": 8.0,
+      "processing_time": 0.834740400314331,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0387.wav",
+      "reference": "leswaku mutirhi loyi a nga",
+      "prediction": "leswaku muttirilo hi a nga",
+      "wer_score": 40.0,
+      "cer_score": 19.230769230769234,
+      "processing_time": 0.6120409965515137,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/039/nchlt_tso_039m_0025.wav",
+      "reference": "ya fanele ya hlayisiwa swinene kuri yata kumeka",
+      "prediction": "ja fanele a hlayisi wo swinene ku ri ya ta kumeka",
+      "wer_score": 100.0,
+      "cer_score": 12.76595744680851,
+      "processing_time": 0.5867640972137451,
+      "audio_duration": 5.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/136/nchlt_tso_136f_0277.wav",
+      "reference": "ku ringeta ku katsakanya komisa",
+      "prediction": "kwo ringeta ku katsakanya komisa",
+      "wer_score": 20.0,
+      "cer_score": 6.451612903225806,
+      "processing_time": 0.5827300548553467,
+      "audio_duration": 5.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/006/nchlt_tso_006m_0029.wav",
+      "reference": "rin wana na rin wana",
+      "prediction": "Rindwana na rin wana na rin wana",
+      "wer_score": 40.0,
+      "cer_score": 60.0,
+      "processing_time": 0.6848952770233154,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/079/nchlt_tso_079f_0183.wav",
+      "reference": "a nga baleka na vona",
+      "prediction": "a nga baleka na vona",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 1.1105968952178955,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/070/nchlt_tso_070f_0076.wav",
+      "reference": "leswaku swi nga endleka ku",
+      "prediction": "let's waakushinga endleka ku",
+      "wer_score": 60.0,
+      "cer_score": 26.923076923076923,
+      "processing_time": 0.7175886631011963,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/110/nchlt_tso_110m_0351.wav",
+      "reference": "u vile murhangeri wa matimba",
+      "prediction": "wele murhangeri wa matimba",
+      "wer_score": 40.0,
+      "cer_score": 14.285714285714285,
+      "processing_time": 0.5833191871643066,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/022/nchlt_tso_022m_0357.wav",
+      "reference": "ku kongoma kumbe ku hava",
+      "prediction": "ku kongoma kumbe ku ha va",
+      "wer_score": 40.0,
+      "cer_score": 4.166666666666666,
+      "processing_time": 0.4992992877960205,
+      "audio_duration": 4.44
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/119/nchlt_tso_119f_0562.wav",
+      "reference": "munhu a nga fanelanga ku",
+      "prediction": "Mule a nga fanelanga ku",
+      "wer_score": 20.0,
+      "cer_score": 12.5,
+      "processing_time": 0.5406627655029297,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/009/nchlt_tso_009m_0413.wav",
+      "reference": "na van wana lava va",
+      "prediction": "na van wana lava va",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6206643581390381,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/186/nchlt_tso_186m_0370.wav",
+      "reference": "loko u nga lavi ku",
+      "prediction": "loko u nga lave ku",
+      "wer_score": 20.0,
+      "cer_score": 5.555555555555555,
+      "processing_time": 0.5795917510986328,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/048/nchlt_tso_048f_0291.wav",
+      "reference": "nga ta swi kota ku",
+      "prediction": "nga ta swi kota ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.4851105213165283,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/137/nchlt_tso_137m_0283.wav",
+      "reference": "ku hambana ka maavelo ya",
+      "prediction": "kwambana ka maavelo ya",
+      "wer_score": 40.0,
+      "cer_score": 12.5,
+      "processing_time": 0.46783947944641113,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/168/nchlt_tso_168f_0081.wav",
+      "reference": "tsarisiwa ku nga si hela",
+      "prediction": "tsarisi wa ku nga si hela",
+      "wer_score": 40.0,
+      "cer_score": 4.166666666666666,
+      "processing_time": 0.4722003936767578,
+      "audio_duration": 6.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/069/nchlt_tso_069m_0405.wav",
+      "reference": "nghena kumbe ku salela eka",
+      "prediction": "Gena kumbe ku salela eka",
+      "wer_score": 20.0,
+      "cer_score": 7.6923076923076925,
+      "processing_time": 0.494873046875,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/145/nchlt_tso_145m_0427.wav",
+      "reference": "pulani kumbe xifaniso lexi kombaka",
+      "prediction": "Pula ni kumbe xifaniso lesikombaka",
+      "wer_score": 80.0,
+      "cer_score": 8.823529411764707,
+      "processing_time": 0.5286872386932373,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/052/nchlt_tso_052f_0377.wav",
+      "reference": "xiyimo lexi u nga ka",
+      "prediction": "xiyimo leswi u nga ka",
+      "wer_score": 20.0,
+      "cer_score": 10.0,
+      "processing_time": 0.7011008262634277,
+      "audio_duration": 6.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/045/nchlt_tso_045m_0260.wav",
+      "reference": "rihanyu swi nga vanga leswaku",
+      "prediction": "rihanyo swi nga vanga leswaku",
+      "wer_score": 20.0,
+      "cer_score": 3.4482758620689653,
+      "processing_time": 0.5708119869232178,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/042/nchlt_tso_042f_0090.wav",
+      "reference": "ya rixaka kumbe layisense ya",
+      "prediction": "eir xa ka kumbe leisense ya",
+      "wer_score": 80.0,
+      "cer_score": 25.0,
+      "processing_time": 0.5954945087432861,
+      "audio_duration": 5.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/034/nchlt_tso_034f_0132.wav",
+      "reference": "n wini ya kwalomu ka",
+      "prediction": "we niako alo muka",
+      "wer_score": 100.0,
+      "cer_score": 55.00000000000001,
+      "processing_time": 0.5216970443725586,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0019.wav",
+      "reference": "u fanele ku khumbana na",
+      "prediction": "u fanele ku kumbalana",
+      "wer_score": 40.0,
+      "cer_score": 13.043478260869565,
+      "processing_time": 0.5361323356628418,
+      "audio_duration": 3.72
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/162/nchlt_tso_162f_0284.wav",
+      "reference": "ku ciniwa mincino ya xibelani",
+      "prediction": "kutgeniwa mintgeno ya xibelani",
+      "wer_score": 60.0,
+      "cer_score": 20.689655172413794,
+      "processing_time": 0.6477706432342529,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/103/nchlt_tso_103f_0112.wav",
+      "reference": "kahle naswona swa olova ku",
+      "prediction": "kaer na swona swa olovo ku",
+      "wer_score": 80.0,
+      "cer_score": 19.230769230769234,
+      "processing_time": 0.7134504318237305,
+      "audio_duration": 5.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/015/nchlt_tso_015m_0244.wav",
+      "reference": "eka xiyimo xa mfumo wa",
+      "prediction": "eka xiyimo xa mfumo wa",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5822396278381348,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/004/nchlt_tso_004f_0347.wav",
+      "reference": "u fanele ku tihlanganisa na",
+      "prediction": "u fanele ku tihlanganisa na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5687069892883301,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/080/nchlt_tso_080f_0529.wav",
+      "reference": "u na mfanelo ya ku",
+      "prediction": "u na mfanelo ya ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.47379565238952637,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/059/nchlt_tso_059m_0284.wav",
+      "reference": "na leswi nga ta kumeka",
+      "prediction": "na leswi nga ta kumeka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5431399345397949,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/067/nchlt_tso_067f_0420.wav",
+      "reference": "miehleketo ya tsakisa naswona i",
+      "prediction": "Memeleketo ya tsakeisa naswona i",
+      "wer_score": 40.0,
+      "cer_score": 12.903225806451612,
+      "processing_time": 0.5204346179962158,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/024/nchlt_tso_024f_0393.wav",
+      "reference": "wana u fanele ku va",
+      "prediction": "wana u fanele ku va",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.8304004669189453,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/106/nchlt_tso_106m_0252.wav",
+      "reference": "a nga ri na mhaka",
+      "prediction": "a nga ri na mhaka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.859076738357544,
+      "audio_duration": 2.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/177/nchlt_tso_177m_0273.wav",
+      "reference": "ya munhu ku suka eka",
+      "prediction": "ya munho ku suka eka",
+      "wer_score": 20.0,
+      "cer_score": 5.0,
+      "processing_time": 0.6664586067199707,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/110/nchlt_tso_110m_0341.wav",
+      "reference": "wa wena u ta ku",
+      "prediction": "Wo wena u ta ku",
+      "wer_score": 20.0,
+      "cer_score": 6.666666666666667,
+      "processing_time": 0.46694016456604004,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/062/nchlt_tso_062m_0057.wav",
+      "reference": "ri karhi a n wayitela",
+      "prediction": "rikarhi a nwa etela",
+      "wer_score": 80.0,
+      "cer_score": 19.047619047619047,
+      "processing_time": 0.5844089984893799,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/027/nchlt_tso_027f_0049.wav",
+      "reference": "a swi nga endleka leswaku",
+      "prediction": "azinga endleka leswaku",
+      "wer_score": 60.0,
+      "cer_score": 16.0,
+      "processing_time": 0.7057676315307617,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/156/nchlt_tso_156f_0539.wav",
+      "reference": "lexi endlaka leswaku ku va",
+      "prediction": "lesiendla ka leswaku ku va",
+      "wer_score": 40.0,
+      "cer_score": 11.538461538461538,
+      "processing_time": 0.5401806831359863,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/039/nchlt_tso_039m_0073.wav",
+      "reference": "wa xikombelo na swona nhlangano",
+      "prediction": "wa xikombelo na swona u swa nga n",
+      "wer_score": 80.0,
+      "cer_score": 22.58064516129032,
+      "processing_time": 0.5731110572814941,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/118/nchlt_tso_118m_0326.wav",
+      "reference": "muendli wa xikombelo a nga",
+      "prediction": "Mou endro wa swikombelo a nga",
+      "wer_score": 60.0,
+      "cer_score": 23.076923076923077,
+      "processing_time": 1.0157124996185303,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/123/nchlt_tso_123m_0072.wav",
+      "reference": "ri n wana wa yena",
+      "prediction": "ring wana wa yena",
+      "wer_score": 40.0,
+      "cer_score": 11.76470588235294,
+      "processing_time": 0.62270188331604,
+      "audio_duration": 2.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/149/nchlt_tso_149f_0042.wav",
+      "reference": "swa nawu wa mafambiselo ya",
+      "prediction": "Tchanal wo wa mafambiselo ya",
+      "wer_score": 40.0,
+      "cer_score": 26.923076923076923,
+      "processing_time": 0.898174524307251,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/082/nchlt_tso_082f_0033.wav",
+      "reference": "loko u nga ri na",
+      "prediction": "loko a nga ri na",
+      "wer_score": 20.0,
+      "cer_score": 6.25,
+      "processing_time": 0.5270493030548096,
+      "audio_duration": 2.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/143/nchlt_tso_143m_0389.wav",
+      "reference": "ta kumeka a ri na",
+      "prediction": "ta kumeka a ri na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5383837223052979,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/150/nchlt_tso_150m_0243.wav",
+      "reference": "eka mbuyelo wa ntlangu kumbe",
+      "prediction": "eka mbwielo waandla nga kumbe",
+      "wer_score": 60.0,
+      "cer_score": 21.428571428571427,
+      "processing_time": 0.5962340831756592,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/079/nchlt_tso_079f_0213.wav",
+      "reference": "hlawula loyi a nga ta",
+      "prediction": "hlawula loyi a nga ta",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5526576042175293,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/116/nchlt_tso_116m_0476.wav",
+      "reference": "a nga ri na ntiyiso",
+      "prediction": "a nga ri na ntiso",
+      "wer_score": 20.0,
+      "cer_score": 10.526315789473683,
+      "processing_time": 0.7177436351776123,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/072/nchlt_tso_072m_0061.wav",
+      "reference": "amukeleka ku ya hi swilaveko",
+      "prediction": "a amukeleka ku ya exilaveko",
+      "wer_score": 60.0,
+      "cer_score": 25.0,
+      "processing_time": 0.5267839431762695,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/038/nchlt_tso_038f_0316.wav",
+      "reference": "un wana loyi a nga",
+      "prediction": "O nga na loyi a nga",
+      "wer_score": 60.0,
+      "cer_score": 27.77777777777778,
+      "processing_time": 0.5353612899780273,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/025/nchlt_tso_025f_0332.wav",
+      "reference": "kun wana na kun wana",
+      "prediction": "kumana na kum wana",
+      "wer_score": 60.0,
+      "cer_score": 20.0,
+      "processing_time": 0.4756464958190918,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/173/nchlt_tso_173f_0313.wav",
+      "reference": "nga vanga ku herisiwa ka",
+      "prediction": "nga vanga kweeris iwaka",
+      "wer_score": 60.0,
+      "cer_score": 20.833333333333336,
+      "processing_time": 0.5047128200531006,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/167/nchlt_tso_167m_0329.wav",
+      "reference": "nkarhi wu nga si fika",
+      "prediction": "kaarunga afrika",
+      "wer_score": 100.0,
+      "cer_score": 52.38095238095239,
+      "processing_time": 0.4276285171508789,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/117/nchlt_tso_117m_0385.wav",
+      "reference": "erivaleni ra mintlangu",
+      "prediction": "eeri van leini ra mintlangu",
+      "wer_score": 100.0,
+      "cer_score": 22.727272727272727,
+      "processing_time": 0.4856138229370117,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/170/nchlt_tso_170f_0396.wav",
+      "reference": "yelani ni leswi lavekaka ku",
+      "prediction": "yelani ni ni leswi lava eka ka ku",
+      "wer_score": 80.0,
+      "cer_score": 22.22222222222222,
+      "processing_time": 0.793527364730835,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/067/nchlt_tso_067f_0427.wav",
+      "reference": "wana na xin wana kumbe",
+      "prediction": "wana na swin wana kumbe",
+      "wer_score": 20.0,
+      "cer_score": 9.090909090909092,
+      "processing_time": 0.5961697101593018,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0235.wav",
+      "reference": "ta ku va kona ka",
+      "prediction": "ta ku va kona ka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.4875812530517578,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/001/nchlt_tso_001m_0510.wav",
+      "reference": "ku va kona ka rixaka",
+      "prediction": "ku va kona karisaka",
+      "wer_score": 40.0,
+      "cer_score": 10.0,
+      "processing_time": 0.8571169376373291,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/070/nchlt_tso_070f_0370.wav",
+      "reference": "timhakanyana ta nkoka leti nga",
+      "prediction": "timhaka nyana ta nkoka leti nga",
+      "wer_score": 40.0,
+      "cer_score": 3.3333333333333335,
+      "processing_time": 1.0985703468322754,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/180/nchlt_tso_180f_0121.wav",
+      "reference": "xi amukeriwile ku sukela hi",
+      "prediction": "Sie amoke erhuile ku swukela yi",
+      "wer_score": 100.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 0.6497230529785156,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/027/nchlt_tso_027f_0072.wav",
+      "reference": "lava nga ta va kona",
+      "prediction": "La vanga ta va kona",
+      "wer_score": 40.0,
+      "cer_score": 10.526315789473683,
+      "processing_time": 0.5398027896881104,
+      "audio_duration": 5.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/162/nchlt_tso_162f_0056.wav",
+      "reference": "lama a lavaka ku ma",
+      "prediction": "Lama ala va ka kuma",
+      "wer_score": 80.0,
+      "cer_score": 21.052631578947366,
+      "processing_time": 0.5725750923156738,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/079/nchlt_tso_079f_0131.wav",
+      "reference": "kahle naswona maandlalelo ya xitsalwana",
+      "prediction": "ka hena swona maandlalelo ya xitsalwana",
+      "wer_score": 60.0,
+      "cer_score": 10.256410256410255,
+      "processing_time": 0.604882001876831,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/042/nchlt_tso_042f_0140.wav",
+      "reference": "lava ku antswisiwa swinene naswona",
+      "prediction": "Lava ku a ntzisiwa swinene naswona",
+      "wer_score": 40.0,
+      "cer_score": 8.823529411764707,
+      "processing_time": 0.5987200736999512,
+      "audio_duration": 5.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/046/nchlt_tso_046f_0369.wav",
+      "reference": "maletere lamakulu lama tikisiweke na",
+      "prediction": "Maleteerla mankulo lama tikisiwe eke na",
+      "wer_score": 80.0,
+      "cer_score": 19.444444444444446,
+      "processing_time": 0.7627828121185303,
+      "audio_duration": 5.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/136/nchlt_tso_136f_0207.wav",
+      "reference": "vula leswaku mutirhi loyi a",
+      "prediction": "voula leswaku mutirelo e a",
+      "wer_score": 60.0,
+      "cer_score": 22.22222222222222,
+      "processing_time": 0.5680956840515137,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/062/nchlt_tso_062m_0023.wav",
+      "reference": "ka ya nga ri wona",
+      "prediction": "ka ya nga rivona",
+      "wer_score": 40.0,
+      "cer_score": 11.76470588235294,
+      "processing_time": 0.4546773433685303,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0132.wav",
+      "reference": "vatsari va ni mali swinene",
+      "prediction": "va tsarri van ni mali swinene",
+      "wer_score": 60.0,
+      "cer_score": 11.538461538461538,
+      "processing_time": 0.5161683559417725,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/085/nchlt_tso_085f_0310.wav",
+      "reference": "ku kombisa ku twisisa ka",
+      "prediction": "ku kumbe eka ku twisisa ka",
+      "wer_score": 40.0,
+      "cer_score": 20.833333333333336,
+      "processing_time": 0.5245461463928223,
+      "audio_duration": 4.92
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/056/nchlt_tso_056f_0184.wav",
+      "reference": "hi yena a nga na",
+      "prediction": "eend a nga na",
+      "wer_score": 40.0,
+      "cer_score": 31.25,
+      "processing_time": 0.44772934913635254,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/020/nchlt_tso_020m_0370.wav",
+      "reference": "mazulu matsakela matsalwa yavona",
+      "prediction": "mazu loomatsakelamatsal wa ya vona",
+      "wer_score": 125.0,
+      "cer_score": 18.75,
+      "processing_time": 0.5453712940216064,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/165/nchlt_tso_165f_0475.wav",
+      "reference": "matsalwa yo hambana ya timhaka",
+      "prediction": "maatswala yo hambana ya timhaka",
+      "wer_score": 20.0,
+      "cer_score": 10.0,
+      "processing_time": 0.718132495880127,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/042/nchlt_tso_042f_0299.wav",
+      "reference": "a nga le hansi ka",
+      "prediction": "a nga leandzika",
+      "wer_score": 60.0,
+      "cer_score": 29.411764705882355,
+      "processing_time": 0.4734349250793457,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/132/nchlt_tso_132m_0516.wav",
+      "reference": "u ta kumeka a ri",
+      "prediction": "u ta kumeka a ri",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.519578218460083,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/111/nchlt_tso_111f_0449.wav",
+      "reference": "ku herisiwa ka matekanelo ya",
+      "prediction": "kweeri swi wo ka mateka nelo ya",
+      "wer_score": 100.0,
+      "cer_score": 28.57142857142857,
+      "processing_time": 0.7324867248535156,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/174/nchlt_tso_174m_0373.wav",
+      "reference": "na ku ringana exikarhi ka",
+      "prediction": "na ku ringana exika a rika",
+      "wer_score": 60.0,
+      "cer_score": 20.0,
+      "processing_time": 0.5468258857727051,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0232.wav",
+      "reference": "nga si hela masiku ya",
+      "prediction": "nga c lha masiku ya",
+      "wer_score": 40.0,
+      "cer_score": 23.809523809523807,
+      "processing_time": 0.49552083015441895,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/145/nchlt_tso_145m_0149.wav",
+      "reference": "nyiko ya wena kumbe ku",
+      "prediction": "eiko ya wena kumbe ku",
+      "wer_score": 20.0,
+      "cer_score": 9.090909090909092,
+      "processing_time": 0.6528291702270508,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/043/nchlt_tso_043f_0027.wav",
+      "reference": "ku ri fambisa leswaku a",
+      "prediction": "kure fambisa leswaku a",
+      "wer_score": 40.0,
+      "cer_score": 8.695652173913043,
+      "processing_time": 0.647169828414917,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/150/nchlt_tso_150m_0063.wav",
+      "reference": "twisisa xivumbeko xa swivulwa swo",
+      "prediction": "twisisa xivumbekho xa swivumbelo a swo",
+      "wer_score": 60.0,
+      "cer_score": 18.181818181818183,
+      "processing_time": 0.7648322582244873,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/159/nchlt_tso_159m_0571.wav",
+      "reference": "u fanele a ala ku",
+      "prediction": "u fanele a ala ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5646519660949707,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/079/nchlt_tso_079f_0389.wav",
+      "reference": "antswisa nkoka wa vutomi bya",
+      "prediction": "Antwislangkoka wa vo toni bya",
+      "wer_score": 80.0,
+      "cer_score": 25.0,
+      "processing_time": 0.6717307567596436,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/042/nchlt_tso_042f_0272.wav",
+      "reference": "vavasati loko vambale xibelani va sakamela",
+      "prediction": "Wa va swa tilo ko vaambalesebelani va swa kamela",
+      "wer_score": 133.33333333333331,
+      "cer_score": 30.952380952380953,
+      "processing_time": 1.2780978679656982,
+      "audio_duration": 5.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/026/nchlt_tso_026f_0529.wav",
+      "reference": "nga swi tivi leswaku mali",
+      "prediction": "nga swi tivi leswaku mali",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5456211566925049,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/024/nchlt_tso_024f_0133.wav",
+      "reference": "ku hlaya na ku tsala",
+      "prediction": "ku hlaya na ku fala",
+      "wer_score": 20.0,
+      "cer_score": 10.0,
+      "processing_time": 0.4749433994293213,
+      "audio_duration": 7.68
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/149/nchlt_tso_149f_0494.wav",
+      "reference": "bya twisiseka na ku va",
+      "prediction": "We vatwi swi seka na ku va",
+      "wer_score": 80.0,
+      "cer_score": 36.36363636363637,
+      "processing_time": 0.5439767837524414,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/044/nchlt_tso_044f_0056.wav",
+      "reference": "swakudya swi aka mirhi",
+      "prediction": "Saku wa dya swi aka mirhi",
+      "wer_score": 75.0,
+      "cer_score": 22.727272727272727,
+      "processing_time": 0.4867715835571289,
+      "audio_duration": 3.96
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/121/nchlt_tso_121m_0196.wav",
+      "reference": "ku va eka xiyimo xa",
+      "prediction": "Go wa eka xiyimo xa",
+      "wer_score": 40.0,
+      "cer_score": 15.789473684210526,
+      "processing_time": 0.6428606510162354,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/113/nchlt_tso_113m_0054.wav",
+      "reference": "ku nga si hela malembe",
+      "prediction": "konga swi hela malembe",
+      "wer_score": 60.0,
+      "cer_score": 13.636363636363635,
+      "processing_time": 0.6324417591094971,
+      "audio_duration": 5.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/146/nchlt_tso_146f_0057.wav",
+      "reference": "yin wana leyi a yi",
+      "prediction": "u wana leyi a y",
+      "wer_score": 40.0,
+      "cer_score": 22.22222222222222,
+      "processing_time": 0.5330638885498047,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/162/nchlt_tso_162f_0144.wav",
+      "reference": "vaendli va swikombelo lava va",
+      "prediction": "va endli va xikombelo lava va",
+      "wer_score": 60.0,
+      "cer_score": 10.344827586206897,
+      "processing_time": 0.6064233779907227,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/059/nchlt_tso_059m_0544.wav",
+      "reference": "tindlela ta ku va kona",
+      "prediction": "tindlela ta ku va kona",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.566277265548706,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/089/nchlt_tso_089m_0622.wav",
+      "reference": "nga ta ka wu nga",
+      "prediction": "we nga ta ka wu nga",
+      "wer_score": 20.0,
+      "cer_score": 18.75,
+      "processing_time": 0.5953946113586426,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/132/nchlt_tso_132m_0147.wav",
+      "reference": "navelaka ku rhumela xikombelo eka",
+      "prediction": "navelaka ku rhumela xikombelo eka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.8559510707855225,
+      "audio_duration": 4.08
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/136/nchlt_tso_136f_0256.wav",
+      "reference": "nyika na ku leha ka",
+      "prediction": "eet kan na ku leha ka",
+      "wer_score": 40.0,
+      "cer_score": 26.31578947368421,
+      "processing_time": 0.521012544631958,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/127/nchlt_tso_127f_0299.wav",
+      "reference": "ka nawu ya afrika dzonga",
+      "prediction": "ka nawu ya afrika dzonga",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5807156562805176,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/062/nchlt_tso_062m_0269.wav",
+      "reference": "yo ka yi nga tsakisi",
+      "prediction": "Joke ringa tsakisi",
+      "wer_score": 80.0,
+      "cer_score": 25.0,
+      "processing_time": 0.46671319007873535,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/126/nchlt_tso_126f_0249.wav",
+      "reference": "ta swi endlisa ku yini",
+      "prediction": "Dat ze hen leswaku yini",
+      "wer_score": 80.0,
+      "cer_score": 45.45454545454545,
+      "processing_time": 0.4822425842285156,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/027/nchlt_tso_027f_0427.wav",
+      "reference": "a nga na mfanelo yo",
+      "prediction": "a nga na mfanelo yo",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.4564683437347412,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/053/nchlt_tso_053f_0114.wav",
+      "reference": "mahlawulelo ya marito lama tirhisiwaka",
+      "prediction": "Matsawulelo ya marito lama tirhisiwaka",
+      "wer_score": 20.0,
+      "cer_score": 5.263157894736842,
+      "processing_time": 0.754370927810669,
+      "audio_duration": 5.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/139/nchlt_tso_139f_0233.wav",
+      "reference": "a nga na mfanelo ya",
+      "prediction": "a nga na mfanelo ya",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5341908931732178,
+      "audio_duration": 2.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/084/nchlt_tso_084m_0349.wav",
+      "reference": "swa siya nkava",
+      "prediction": "swa si ya nkava",
+      "wer_score": 66.66666666666666,
+      "cer_score": 7.142857142857142,
+      "processing_time": 0.5236713886260986,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/170/nchlt_tso_170f_0285.wav",
+      "reference": "komba leswaku ko va na",
+      "prediction": "Komba leswaku ku kona nga",
+      "wer_score": 60.0,
+      "cer_score": 22.727272727272727,
+      "processing_time": 0.5573101043701172,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/093/nchlt_tso_093m_0473.wav",
+      "reference": "va swikombelo va fanele ku",
+      "prediction": "va swikombelo wa fanele ku",
+      "wer_score": 20.0,
+      "cer_score": 3.8461538461538463,
+      "processing_time": 0.4826169013977051,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/152/nchlt_tso_152m_0481.wav",
+      "reference": "khomixinara wa nhlayiso wa vana",
+      "prediction": "Commitatie na rave waantslayiso wa van",
+      "wer_score": 100.0,
+      "cer_score": 48.38709677419355,
+      "processing_time": 0.5723459720611572,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/114/nchlt_tso_114m_0170.wav",
+      "reference": "na swona ku nga ri",
+      "prediction": "na swona u nga ri",
+      "wer_score": 20.0,
+      "cer_score": 5.555555555555555,
+      "processing_time": 0.46897292137145996,
+      "audio_duration": 5.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/168/nchlt_tso_168f_0019.wav",
+      "reference": "nga eka xiyimo xa le",
+      "prediction": "Ga eka xiyimo xa le",
+      "wer_score": 20.0,
+      "cer_score": 5.0,
+      "processing_time": 0.7941880226135254,
+      "audio_duration": 4.44
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/122/nchlt_tso_122f_0304.wav",
+      "reference": "ya lava swi va khumbhaka",
+      "prediction": "Yeleva swi va kumbeaka",
+      "wer_score": 60.0,
+      "cer_score": 20.833333333333336,
+      "processing_time": 0.9426226615905762,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/166/nchlt_tso_166m_0141.wav",
+      "reference": "mavonelo ya anamisa miehleketo",
+      "prediction": "mavonelo ya a na mis amise miehleke eto",
+      "wer_score": 150.0,
+      "cer_score": 30.0,
+      "processing_time": 0.8175621032714844,
+      "audio_duration": 5.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/114/nchlt_tso_114m_0040.wav",
+      "reference": "afrika dzonga kumbe mixini loko",
+      "prediction": "afrika dzonga kumbe misini loko",
+      "wer_score": 20.0,
+      "cer_score": 3.225806451612903,
+      "processing_time": 0.5097920894622803,
+      "audio_duration": 8.76
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/086/nchlt_tso_086m_0255.wav",
+      "reference": "xikandza xa yena a xi",
+      "prediction": "Sikandza xa yena a xi",
+      "wer_score": 20.0,
+      "cer_score": 4.761904761904762,
+      "processing_time": 0.706153154373169,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/067/nchlt_tso_067f_0218.wav",
+      "reference": "ta lava swi va khumbhaka",
+      "prediction": "tala va swi va khumbhaka",
+      "wer_score": 40.0,
+      "cer_score": 8.333333333333332,
+      "processing_time": 0.5276174545288086,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/190/nchlt_tso_190m_0405.wav",
+      "reference": "ku suka eka ndzawulo ya",
+      "prediction": "ku suka eka ndzawulo ya",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5999834537506104,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/072/nchlt_tso_072m_0067.wav",
+      "reference": "yo koma na ku sungula",
+      "prediction": "eikoma nake sungula",
+      "wer_score": 80.0,
+      "cer_score": 23.809523809523807,
+      "processing_time": 0.4905693531036377,
+      "audio_duration": 2.88
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/016/nchlt_tso_016m_0331.wav",
+      "reference": "ku na mahungu lama nga",
+      "prediction": "kuna mahungu lama nga",
+      "wer_score": 40.0,
+      "cer_score": 4.545454545454546,
+      "processing_time": 0.47969770431518555,
+      "audio_duration": 5.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/119/nchlt_tso_119f_0178.wav",
+      "reference": "ku hlaya no langutisela ku",
+      "prediction": "we hlaya no langutisela ku",
+      "wer_score": 20.0,
+      "cer_score": 7.6923076923076925,
+      "processing_time": 0.49854016304016113,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/189/nchlt_tso_189f_0503.wav",
+      "reference": "leswaku a ku ri na",
+      "prediction": "let'swaku a ku ri na",
+      "wer_score": 20.0,
+      "cer_score": 11.11111111111111,
+      "processing_time": 0.45917510986328125,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/095/nchlt_tso_095m_0396.wav",
+      "reference": "ku nga si sungula ku",
+      "prediction": "konga swi sungula ku",
+      "wer_score": 60.0,
+      "cer_score": 15.0,
+      "processing_time": 0.6866641044616699,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/026/nchlt_tso_026f_0138.wav",
+      "reference": "va afrika dzonga va nga",
+      "prediction": "wa afrika dzonga va nga",
+      "wer_score": 20.0,
+      "cer_score": 4.3478260869565215,
+      "processing_time": 0.5527710914611816,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/116/nchlt_tso_116m_0296.wav",
+      "reference": "ku ri ni leswi swi",
+      "prediction": "korenile swi swi",
+      "wer_score": 80.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 0.5197851657867432,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/126/nchlt_tso_126f_0100.wav",
+      "reference": "xikandza xa yena a xi",
+      "prediction": "Sikandza xa yena a xi",
+      "wer_score": 20.0,
+      "cer_score": 4.761904761904762,
+      "processing_time": 0.4880368709564209,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/016/nchlt_tso_016m_0061.wav",
+      "reference": "kala ku nga ri ka",
+      "prediction": "kala ku nga ri ka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5318093299865723,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/026/nchlt_tso_026f_0433.wav",
+      "reference": "a nga ta langutana na",
+      "prediction": "a nga tala nga kutana na",
+      "wer_score": 60.0,
+      "cer_score": 23.809523809523807,
+      "processing_time": 1.1463494300842285,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/083/nchlt_tso_083f_0292.wav",
+      "reference": "a a nga ri na",
+      "prediction": "a a nga ri na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.43676328659057617,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0538.wav",
+      "reference": "nwana mati yo tala",
+      "prediction": "Nuana mati wo tala",
+      "wer_score": 50.0,
+      "cer_score": 11.11111111111111,
+      "processing_time": 0.5925836563110352,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/095/nchlt_tso_095m_0434.wav",
+      "reference": "loyi a nga na vulawuri",
+      "prediction": "loyi a nga nawu lawul",
+      "wer_score": 40.0,
+      "cer_score": 22.727272727272727,
+      "processing_time": 0.5564415454864502,
+      "audio_duration": 5.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/133/nchlt_tso_133f_0166.wav",
+      "reference": "ku tsala swi tori",
+      "prediction": "ku tsala swi to rhi",
+      "wer_score": 50.0,
+      "cer_score": 11.76470588235294,
+      "processing_time": 0.5356764793395996,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/023/nchlt_tso_023f_0467.wav",
+      "reference": "naswona mahungu ya kona a",
+      "prediction": "na swa na mongu ya kona a",
+      "wer_score": 80.0,
+      "cer_score": 24.0,
+      "processing_time": 0.5066432952880859,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/081/nchlt_tso_081m_0240.wav",
+      "reference": "mana wa yena a nga",
+      "prediction": "Mijn na wa yena a nga",
+      "wer_score": 40.0,
+      "cer_score": 22.22222222222222,
+      "processing_time": 0.6311910152435303,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/160/nchlt_tso_160f_0132.wav",
+      "reference": "le henhla bya swilaveko swa",
+      "prediction": "Lê henhla tsar swilaveko swa",
+      "wer_score": 40.0,
+      "cer_score": 14.814814814814813,
+      "processing_time": 0.6983485221862793,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/100/nchlt_tso_100m_0275.wav",
+      "reference": "swi kahle naswona swi pfumala",
+      "prediction": "Zika alze naswona swi vumbala",
+      "wer_score": 60.0,
+      "cer_score": 31.03448275862069,
+      "processing_time": 0.5923175811767578,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/177/nchlt_tso_177m_0462.wav",
+      "reference": "u fanele ku kota ku",
+      "prediction": "we fanele ku kota ku",
+      "wer_score": 20.0,
+      "cer_score": 10.526315789473683,
+      "processing_time": 0.7200310230255127,
+      "audio_duration": 2.04
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/122/nchlt_tso_122f_0134.wav",
+      "reference": "yi nge swi koti ku",
+      "prediction": "henge swi koti ku",
+      "wer_score": 40.0,
+      "cer_score": 16.666666666666664,
+      "processing_time": 0.7763810157775879,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/123/nchlt_tso_123m_0022.wav",
+      "reference": "ya emahlweni yi fanele ku",
+      "prediction": "ja emahlweni faneleko",
+      "wer_score": 80.0,
+      "cer_score": 24.0,
+      "processing_time": 0.7574334144592285,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/072/nchlt_tso_072m_0139.wav",
+      "reference": "tala ku va swi tirhisiwa",
+      "prediction": "tala ku va swi tirhisiwa",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6353621482849121,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/163/nchlt_tso_163f_0652.wav",
+      "reference": "fanele ku tekeriwa enhlokweni loko",
+      "prediction": "vanelo ku tekeriwa exlo kwenelo ko",
+      "wer_score": 80.0,
+      "cer_score": 23.52941176470588,
+      "processing_time": 0.6285190582275391,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/152/nchlt_tso_152m_0052.wav",
+      "reference": "yisa emahlweni ku tala ka",
+      "prediction": "yisa emahlweni ku tala ka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.47876548767089844,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/077/nchlt_tso_077m_0444.wav",
+      "reference": "na ku va kona ka",
+      "prediction": "na ku va kona ka",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.4585707187652588,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/035/nchlt_tso_035f_0506.wav",
+      "reference": "ka yi nga swikoti ku",
+      "prediction": "ka yi nga swikoti ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.46738433837890625,
+      "audio_duration": 6.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/183/nchlt_tso_183m_0168.wav",
+      "reference": "loyi a nga na mfanelo",
+      "prediction": "loyi a nga na mfanelo",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6822149753570557,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0179.wav",
+      "reference": "i swa nkoka ku tiva",
+      "prediction": "i swa nkoka ku tiva",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5532755851745605,
+      "audio_duration": 3.72
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/137/nchlt_tso_137m_0323.wav",
+      "reference": "loko ku nga si va",
+      "prediction": "lawe ko ku nga swi va",
+      "wer_score": 60.0,
+      "cer_score": 29.411764705882355,
+      "processing_time": 0.6394827365875244,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/070/nchlt_tso_070f_0422.wav",
+      "reference": "ta le kaya kumbe eka",
+      "prediction": "ta le ka ya kumbe eka",
+      "wer_score": 40.0,
+      "cer_score": 5.0,
+      "processing_time": 0.5555520057678223,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/033/nchlt_tso_033f_0098.wav",
+      "reference": "yi fanele ku va na",
+      "prediction": "eifanele ku va na",
+      "wer_score": 40.0,
+      "cer_score": 11.11111111111111,
+      "processing_time": 0.47183728218078613,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/170/nchlt_tso_170f_0356.wav",
+      "reference": "mahlawulelo ya marito i ya",
+      "prediction": "mahllawulelo ya marito e ya",
+      "wer_score": 40.0,
+      "cer_score": 7.6923076923076925,
+      "processing_time": 0.5372486114501953,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/147/nchlt_tso_147m_0450.wav",
+      "reference": "faneleke na ku va na",
+      "prediction": "vaneneleke na ku va na",
+      "wer_score": 20.0,
+      "cer_score": 15.0,
+      "processing_time": 0.5061473846435547,
+      "audio_duration": 2.4
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/053/nchlt_tso_053f_0439.wav",
+      "reference": "ku va yi kota ku",
+      "prediction": "kum va eka ta ku",
+      "wer_score": 60.0,
+      "cer_score": 37.5,
+      "processing_time": 0.7088725566864014,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/013/nchlt_tso_013m_0063.wav",
+      "reference": "swi ta eka timhaka ta",
+      "prediction": "Sita eka timhaka ta",
+      "wer_score": 40.0,
+      "cer_score": 9.523809523809524,
+      "processing_time": 0.5786912441253662,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/183/nchlt_tso_183m_0129.wav",
+      "reference": "swin wana leswi nga kona",
+      "prediction": "Sivun wana leshinga kona",
+      "wer_score": 60.0,
+      "cer_score": 20.833333333333336,
+      "processing_time": 0.5672874450683594,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/103/nchlt_tso_103f_0424.wav",
+      "reference": "tiva leswi va faneleke ku",
+      "prediction": "tiva leswi va faneleke ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5203704833984375,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/095/nchlt_tso_095m_0047.wav",
+      "reference": "eka ku tata fomo ya",
+      "prediction": "eka ku ta ta fomo ya",
+      "wer_score": 40.0,
+      "cer_score": 5.263157894736842,
+      "processing_time": 0.48764705657958984,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/040/nchlt_tso_040f_0071.wav",
+      "reference": "na un wana loyi a",
+      "prediction": "Na u wana loyi a",
+      "wer_score": 20.0,
+      "cer_score": 5.88235294117647,
+      "processing_time": 0.47052502632141113,
+      "audio_duration": 4.56
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/158/nchlt_tso_158f_0125.wav",
+      "reference": "ku va ni vutihlamuleri bya",
+      "prediction": "kuma ni u voetihlamuleri bya",
+      "wer_score": 80.0,
+      "cer_score": 23.076923076923077,
+      "processing_time": 0.743208646774292,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/090/nchlt_tso_090m_0414.wav",
+      "reference": "a a nga ha ri",
+      "prediction": "a nga ha ri",
+      "wer_score": 20.0,
+      "cer_score": 15.384615384615385,
+      "processing_time": 0.4974038600921631,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/182/nchlt_tso_182f_0077.wav",
+      "reference": "hi kona eka xinawana xa",
+      "prediction": "eikwona eka xinawa na xa",
+      "wer_score": 80.0,
+      "cer_score": 17.391304347826086,
+      "processing_time": 0.5693380832672119,
+      "audio_duration": 4.2
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/036/nchlt_tso_036f_0139.wav",
+      "reference": "loyi a nga na vuswikoti",
+      "prediction": "Lhoi a nga na vuswikoti",
+      "wer_score": 20.0,
+      "cer_score": 8.695652173913043,
+      "processing_time": 0.5392847061157227,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/116/nchlt_tso_116m_0323.wav",
+      "reference": "wana lexi ngana nkoka eka",
+      "prediction": "wana leshingga na nkoka eka",
+      "wer_score": 40.0,
+      "cer_score": 20.0,
+      "processing_time": 0.49121737480163574,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/089/nchlt_tso_089m_0018.wav",
+      "reference": "hi ku hlawula matsalwa lama",
+      "prediction": "eikushawula matsalwa lama",
+      "wer_score": 60.0,
+      "cer_score": 14.814814814814813,
+      "processing_time": 0.9845459461212158,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/152/nchlt_tso_152m_0475.wav",
+      "reference": "wa timaraka eka xiyenge xa",
+      "prediction": "Watemaraka eka xiyenge xa",
+      "wer_score": 40.0,
+      "cer_score": 7.6923076923076925,
+      "processing_time": 1.1119613647460938,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/026/nchlt_tso_026f_0469.wav",
+      "reference": "le ka xiyimo xa kahle",
+      "prediction": "le ka xiyimo xa ka a swi",
+      "wer_score": 60.0,
+      "cer_score": 28.57142857142857,
+      "processing_time": 0.6211273670196533,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/039/nchlt_tso_039m_0274.wav",
+      "reference": "to kala ti nga ri",
+      "prediction": "to kala tindgaari",
+      "wer_score": 60.0,
+      "cer_score": 17.647058823529413,
+      "processing_time": 0.49097228050231934,
+      "audio_duration": 2.64
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/007/nchlt_tso_007m_0010.wav",
+      "reference": "endla leswaku a kumeka a",
+      "prediction": "endla leswaku a kumeka a",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6065199375152588,
+      "audio_duration": 5.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/180/nchlt_tso_180f_0491.wav",
+      "reference": "swi fanele swi va kona",
+      "prediction": "Sifanele swi va kona",
+      "wer_score": 40.0,
+      "cer_score": 9.090909090909092,
+      "processing_time": 0.6696019172668457,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/123/nchlt_tso_123m_0320.wav",
+      "reference": "lava nga ta va kona",
+      "prediction": "Lava nga ta va kona",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.6040349006652832,
+      "audio_duration": 2.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/093/nchlt_tso_093m_0139.wav",
+      "reference": "lava a va ri eka",
+      "prediction": "lawa avarhi eka",
+      "wer_score": 80.0,
+      "cer_score": 25.0,
+      "processing_time": 0.5482771396636963,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/126/nchlt_tso_126f_0337.wav",
+      "reference": "swi nga endliwa ntsena loko",
+      "prediction": "Shing afindlu enfena loko",
+      "wer_score": 80.0,
+      "cer_score": 40.74074074074074,
+      "processing_time": 0.49569106101989746,
+      "audio_duration": 3.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/042/nchlt_tso_042f_0162.wav",
+      "reference": "ra yena a tlhela a",
+      "prediction": "Rijena a tlhela a",
+      "wer_score": 40.0,
+      "cer_score": 16.666666666666664,
+      "processing_time": 0.47295522689819336,
+      "audio_duration": 4.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/078/nchlt_tso_078m_0204.wav",
+      "reference": "leswaku a ku ri na",
+      "prediction": "leswaku a ku ri na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.45251035690307617,
+      "audio_duration": 3.24
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/049/nchlt_tso_049f_0421.wav",
+      "reference": "wa rixaka wu fanele ku",
+      "prediction": "wa rixaka wu fanele ku",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5005602836608887,
+      "audio_duration": 9.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/119/nchlt_tso_119f_0084.wav",
+      "reference": "xitsalwambiko xa kahle swinene no",
+      "prediction": "Sitsal rombiko xa ka hlesinene no",
+      "wer_score": 80.0,
+      "cer_score": 21.21212121212121,
+      "processing_time": 0.7689781188964844,
+      "audio_duration": 6.48
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/146/nchlt_tso_146f_0314.wav",
+      "reference": "lawa khale a ya nga",
+      "prediction": "lawa kale a ya nga",
+      "wer_score": 20.0,
+      "cer_score": 5.263157894736842,
+      "processing_time": 0.5676193237304688,
+      "audio_duration": 2.16
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/090/nchlt_tso_090m_0318.wav",
+      "reference": "ra afrika dzonga nawu wa",
+      "prediction": "ra afrika dzonga nawu wa",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.5464107990264893,
+      "audio_duration": 2.52
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/018/nchlt_tso_018f_0299.wav",
+      "reference": "wo ka wu nga ri",
+      "prediction": "woka u nga ri",
+      "wer_score": 60.0,
+      "cer_score": 13.333333333333334,
+      "processing_time": 0.4419441223144531,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/137/nchlt_tso_137m_0230.wav",
+      "reference": "swi tikomba leswaku a a",
+      "prediction": "Fetikoomba leswaku a",
+      "wer_score": 60.0,
+      "cer_score": 30.434782608695656,
+      "processing_time": 1.0444207191467285,
+      "audio_duration": 3.6
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/036/nchlt_tso_036f_0441.wav",
+      "reference": "xo ka xi nga fikelelangi",
+      "prediction": "Show ka swi nga fikele langen",
+      "wer_score": 80.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 0.8319611549377441,
+      "audio_duration": 7.32
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/038/nchlt_tso_038f_0260.wav",
+      "reference": "ku va vaakatiko van wana",
+      "prediction": "kufa va ka tik ku va n wana",
+      "wer_score": 120.0,
+      "cer_score": 33.33333333333333,
+      "processing_time": 0.6493914127349854,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/137/nchlt_tso_137m_0116.wav",
+      "reference": "loko loyi a nga na",
+      "prediction": "low kulu hi a nga na",
+      "wer_score": 60.0,
+      "cer_score": 38.88888888888889,
+      "processing_time": 0.6336596012115479,
+      "audio_duration": 3.84
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/129/nchlt_tso_129f_0353.wav",
+      "reference": "lwandle rini mati yo tala",
+      "prediction": "Rhoandljeri ni mati yo tala",
+      "wer_score": 40.0,
+      "cer_score": 24.0,
+      "processing_time": 0.5663225650787354,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/124/nchlt_tso_124m_0271.wav",
+      "reference": "swa xiyenge xin wana na",
+      "prediction": "swa xiyenge xin wana na",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.4892122745513916,
+      "audio_duration": 3.36
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/054/nchlt_tso_054f_0057.wav",
+      "reference": "xikombelo xi nga fikeleli swilaveko",
+      "prediction": "xikombelo xi nga fikelele leswi laveko",
+      "wer_score": 60.0,
+      "cer_score": 11.428571428571429,
+      "processing_time": 0.6093642711639404,
+      "audio_duration": 5.28
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/132/nchlt_tso_132m_0212.wav",
+      "reference": "kuni mintlangu yo nyanyula",
+      "prediction": "u ni mintlangu yo nyanyu u vulla",
+      "wer_score": 125.0,
+      "cer_score": 30.76923076923077,
+      "processing_time": 1.0765583515167236,
+      "audio_duration": 3.12
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/072/nchlt_tso_072m_0170.wav",
+      "reference": "ku tsala loko xikombelo xa",
+      "prediction": "ku tsala loko xikombelo xa",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "processing_time": 0.894007682800293,
+      "audio_duration": 3.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/022/nchlt_tso_022m_0199.wav",
+      "reference": "un wana na un wana",
+      "prediction": "wana na u wana",
+      "wer_score": 40.0,
+      "cer_score": 22.22222222222222,
+      "processing_time": 0.5186159610748291,
+      "audio_duration": 4.8
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/019/nchlt_tso_019f_0230.wav",
+      "reference": "xa xitsalwana kumbe xa tinhlamulo",
+      "prediction": "xa xitsalwana kunve xa tin hlamula",
+      "wer_score": 60.0,
+      "cer_score": 12.121212121212121,
+      "processing_time": 0.5370316505432129,
+      "audio_duration": 6.0
+    },
+    {
+      "audio_path": "C:\\Poroject\\Data/nchlt_tso/audio/015/nchlt_tso_015m_0288.wav",
+      "reference": "wana na xin wana xi",
+      "prediction": "wana na xin wana xin",
+      "wer_score": 20.0,
+      "cer_score": 5.263157894736842,
+      "processing_time": 0.668778657913208,
+      "audio_duration": 3.72
+    }
+  ]
+}
